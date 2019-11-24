@@ -9,6 +9,13 @@ edus:
                 -- Overall Average: 88.28/100 (TOP 10%)<br/>
                 -- College Comprehensive Evaluation Ranking: 1/248<br/>
                 -- Advisor: [Prof. Yuchao Dai]<br/>"
+
+interns:
+    - title:   "3D Vision Group of SenseTime Research, Hangzhou, 10/2019 - now"
+      image: "/images/sensetime.png"
+      comment: "-- 3D Scene Reconstruction and Understanding<br/>
+                -- Advisor: Jiaming Sun and [Prof. Xiaowei Zhou]<br/>"
+
 projects:
     - title: "Leader of Rescue Team -- NWPU Dancing Robot Research And Training Base"
       time:  "07/2017 - 08/2019"
@@ -21,7 +28,7 @@ projects:
           url: https://www.youtube.com/watch?v=ECkUeVavoEI
         - name: "Autonomous Obstacle Avoidance Control Algorithms Show"
           url: https://www.youtube.com/watch?v=hqvpZJrQQSM
-    #   image: "/images/no.svg"
+      image: "/images/explorer_1.jpg"
 
     - title: "Major Member -- NWPU Peak Experience Program Supervised By Prof. Yuchao Dai"
       time:  "10/2018 - present"
@@ -34,18 +41,22 @@ projects:
           url: https://youtu.be/Q-RpD6fszsY
         - name: "Dual Lidar Calibration"
           url: https://youtu.be/eWi_X-0W4QI
+      image: "/images/duallidar.png"
 
     - title: "Junior Intern -- NWPU Center for Optical Imagery Analysis and Learning (OPTIMAL)"
       time:  "12/2018 - 05/2019"
       topic: "Research Topic: Unsupervised Learning Hash Encoding Schemes for Efficient Image Retrieval"
       comment: "Transform high-dimensional media data into compact binary codes and generate similar binary codes for similar data items, under the supervision of Dr. Zhanxuan Hu."
       duties: " Combine Unsupervised Clustering with Deep Hashing, Implementation based on Pytorch"
-    
+      image: "/images/imageretrival.png"
+
     - title: "Group Leader & Programming Member -- NWPU Mathematical Modeling Base"
       time:  "08/2017 - 03/2018"
       topic: "Research Topic: Solving real-life problems using mathematical modeling"
-      comment: "Won the Meritorious Winner International First Prize in 2018 MCM/ICM (Problem D: Out of Gas and Driving on Electric) and won the Provincial First Prize (CT system parameter calibration and imaging) in 2017 National Mathematical Modeling Competition. <br/>
+      comment: "Won the Meritorious Winner International First Prize in 2018 MCM/ICM (Problem D: Out of Gas and Driving on Electric) and won the Provincial First Prize in 2017 National Mathematical Modeling Competition. <br/>
       Invited to instruct the team of college to participate in the mathematical modeling competition organized by the school in May 2019."
+      image: "/images/mcm.jpg"
+
 ---
 
 ## Education
@@ -53,18 +64,30 @@ projects:
 {% assign thumbnail="left" %}
 {% for edu in page.edus %}
 {% if edu.image %}
-{% include image.html url=edu.image caption="" height="120px" align=thumbnail %}
+{% include image.html url=edu.image caption="" height="100px" align=thumbnail %}
 {% endif %}
 **{{edu.title}}** <br/>
 {{ edu.comment }}
 {% endfor %}<br/>
 
+## Intern Experience
+
+{% assign thumbnail="left" %}
+{% for intern in page.interns %}
+{% if intern.image %}
+{% include image.html url=intern.image caption="" height="100px" align=thumbnail %}
+{% endif %}
+**{{intern.title}}** <br/>
+{{ intern.comment }}
+{% endfor %}<br/>
+
+<br/>
 
 ## Projects
 
 {% assign thumbnail="left" %}
 {% for pro in page.projects %}
-{% if pro.image %}{% include image.html url=pro.image caption="" height="130px" align=thumbnail %}{% endif %}
+{% if pro.image %}{% include image.html url=pro.image caption="" width="150px" align=thumbnail %}{% endif %}
 **{{pro.title}}**  *{{pro.time}}* 
 {% if pro.topic %}<br/>**{{pro.topic}}**{% endif %}
 {% if pro.comment %}<br/>{{ pro.comment }}{% endif %}
@@ -94,3 +117,4 @@ projects:
 
 
 [Prof. Yuchao Dai]: https://teacher.nwpu.edu.cn/en/daiyuchao
+[Prof. Xiaowei Zhou]: http://www.cad.zju.edu.cn/home/xzhou
