@@ -10,7 +10,7 @@ I’m currently a senior undergraduate student in School of Computer Science of 
 
 I worked in **3D Vision Research Lab** supervised by [Prof. Yuchao Dai] as an undergraduate research assistant on Lidar/Visual 3D Registration and Reconstruction, Dual Lidar calibration.
 
-I've served in the **NWPU Dancing Robot Research And Training Base** for two years as a Robot Software Engineer and Team Leader since July, 2017.
+I've served in the **NWPU Dancing Robot Research And Training Base - Rescue Robot Group** for two years as a Robot Software Engineer and Team Leader since July, 2017.
 We often participate in *RoboCup Rescue Robot League*, and my main contribution is about SLAM, Robot Localization and Navigation, Path Planning.
 
 ## Research Interest
