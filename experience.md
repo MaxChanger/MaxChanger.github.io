@@ -14,7 +14,8 @@ interns:
     - title:   "3D Vision Group of SenseTime Research, Hangzhou, 10/2019 - now"
       image: "/images/sensetime.png"
       comment: "-- 3D Scene Reconstruction and Understanding<br/>
-                -- Advisor: Jiaming Sun and [Prof. Xiaowei Zhou]<br/>"
+                -- RGBD Indoor Scene Reconstruction<br/>
+                -- Advisor: [Prof. Xiaowei Zhou] and Jiaming Sun<br/>"
 
 projects:
     - title: "Leader of Rescue Team -- NWPU Dancing Robot Research And Training Base"
@@ -81,8 +82,6 @@ projects:
 {{ intern.comment }}
 {% endfor %}<br/>
 
-<br/>
-
 ## Projects
 
 {% assign thumbnail="left" %}
@@ -97,7 +96,7 @@ projects:
 
 
 ## Honor & Awards
-- **Outstanding Students** \| Northwestern Polytechnical University (top 14.7%), 2016-2019 three times
+- **Outstanding Students** \| Northwestern Polytechnical University (top 14.7%), 2016-2019, Three years in a row
 - Aviation Industry Special Scholarship (first-class  top 0.5%), 2018-2019
 - Aviation Industry Special Scholarship (second-class top 2.0%), 2017-2018
 - Wu Yajun's Special Scholarship (third-class top 4.6%), 2016-2017
