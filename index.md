@@ -25,7 +25,7 @@ Github: [MaxChanger] <br />
 Email: [sunjiadai AT foxmail dot com]
 
 [Prof. Xiaowei Zhou]: http://www.cad.zju.edu.cn/home/xzhou
-[Prof. Yuchao Dai]: https://teacher.nwpu.edu.cn/en/daiyuchao
+[Prof. Yuchao Dai]: https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en
 [MaxChanger]: https://github.com/MaxChanger
 [sunjiadai AT foxmail dot com]: mailto:sunjiadai@foxmail.com
 [Team - Explorer]: https://github.com/team-explorer-rescue-robot/
