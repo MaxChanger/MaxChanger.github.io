@@ -11,10 +11,10 @@ edus:
                 -- Advisor: [Prof. Yuchao Dai]<br/>"
 
 interns:
-    - title:   "3D Vision Group of SenseTime Research, Hangzhou, 10/2019 - now"
+    - title:   "3D Vision Group of SenseTime Research, Hangzhou, 10/2019 - 05/2020"
       image: "/images/sensetime.png"
       comment: "-- 3D Scene Reconstruction and Understanding<br/>
-                -- RGBD Indoor Scene Reconstruction<br/>
+                -- RGBD Indoor Scene and Object Reconstruction<br/>
                 -- Advisor: [Prof. Xiaowei Zhou] and Jiaming Sun<br/>"
 
 projects:
@@ -115,5 +115,5 @@ projects:
 
 
 
-[Prof. Yuchao Dai]: https://teacher.nwpu.edu.cn/en/daiyuchao
+[Prof. Yuchao Dai]: https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en
 [Prof. Xiaowei Zhou]: http://www.cad.zju.edu.cn/home/xzhou
