@@ -8,7 +8,7 @@ permalink: /
 
 I'm currently a first-year graduate student of Northwestern Polytechnical University with the supervision of [Prof. Yuchao Dai], and I graduated with the honor of an outstanding graduate from School of Computer Science of NWPU in July 2020.
 
-I used to be a Research Intern on topics related to 3D Scene Reconstruction and Understanding at **3D Vision Group @ MIG of SenseTime Research** from October 2019 to May 2020, working closely with the research group of [Prof. Xiaowei Zhou], CAD&CG, ZJU.
+I used to be a Research Intern on topics related to 3D Scene Reconstruction and Understanding at **3D&VR Group @ MIG of SenseTime Research** supervised by by [Jiaming Sun] and [Prof. Xiaowei Zhou](CAD&CG, ZJU) from October 2019 to May 2020.
 
 I worked in **3D Vision Research Lab** supervised by [Prof. Yuchao Dai] as an undergraduate Research Assistant on Lidar/Visual 3D Registration and Reconstruction, Dual Lidar calibration, etc.
 
@@ -29,6 +29,7 @@ Email: [sunjiadai AT foxmail dot com], [sunjiadai AT mail.nwpu.edu.cn]
 
 [Prof. Xiaowei Zhou]: http://www.cad.zju.edu.cn/home/xzhou
 [Prof. Yuchao Dai]: https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en
+[Jiaming Sun]: https://jiamingsun.ml/
 [MaxChanger]: https://github.com/MaxChanger
 [sunjiadai AT foxmail dot com]: mailto:sunjiadai@foxmail.com
 [sunjiadai AT mail.nwpu.edu.cn]: mailto:sunjiadai@mail.nwpu.edu.cn
