@@ -18,7 +18,8 @@ As usual, we participate in *RoboCup Rescue Robot League Regional Open Competiti
 ## Research Interest
 3D Visual Perception, 3D Vision, Robotics, SLAM, Deep Learning, Autonomous Driving <br />
 Point Cloud Registration and Understanding <br />
-Point Cloud Scene Flow
+Point Cloud Scene Flow <br />
+Motion Understanding & Video Object Segmentation
 
 ## Contact
 
