@@ -6,7 +6,7 @@ edus:
     - title:   "Northwestern Polytechnical University, China, 09/2016 - 06/2020"
       image: "/images/nwpu.png"
       comment: "-- Bachelor of Engineering, Computer Science and Technology<br/>
-                -- Overall Average: 88.28/100 (TOP 10%)<br/>
+                -- Overall Average: 88.28/100<br/>
                 -- College Comprehensive Evaluation Ranking: 1/248<br/>
                 -- Advisor: [Prof. Yuchao Dai]<br/>"
 
@@ -15,7 +15,7 @@ interns:
       image: "/images/sensetime.png"
       comment: "-- 3D Scene Reconstruction and Understanding<br/>
                 -- RGBD Indoor Scene and Object Reconstruction<br/>
-                -- Advisor: [Prof. Xiaowei Zhou] and Jiaming Sun<br/>"
+                -- Advisor: [Prof. Xiaowei Zhou] and [Jiaming Sun]<br/>"
 
 projects:
     - title: "Leader of Rescue Team -- NWPU Dancing Robot Research And Training Base"
@@ -117,3 +117,4 @@ projects:
 
 [Prof. Yuchao Dai]: https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en
 [Prof. Xiaowei Zhou]: http://www.cad.zju.edu.cn/home/xzhou
+[Jiaming Sun]: https://jiamingsun.ml/
