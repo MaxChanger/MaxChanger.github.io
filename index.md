@@ -6,11 +6,11 @@ permalink: /
 
 {% include image.html url="images/person2.jpg" caption="" width="400px" align="right" %}
 
-I'm currently a first-year graduate student of Northwestern Polytechnical University with the supervision of [Prof. Yuchao Dai], and I graduated with the honor of an outstanding graduate from School of Computer Science of NWPU in July 2020.
+I'm currently a first-year graduate student of Northwestern Polytechnical University([NWPU]) with the supervision of [Prof. Yuchao Dai], and I received my bachelor's degree in July 2020 from the [School of Computer Science] of NWPU, with the honor of Outstanding Graduate.
 
-I used to be a Research Intern on topics related to 3D Scene Reconstruction and Understanding at **3D&VR Group @ MIG of SenseTime Research** supervised by by [Jiaming Sun] and [Prof. Xiaowei Zhou] (CAD&CG, ZJU) from October 2019 to May 2020.
+I used to be a Research Intern on topics related to 3D Scene Reconstruction and Understanding at **3D&AR Group @ MIG of [SenseTime] Research** supervised by [Jiaming Sun] and [Prof. Xiaowei Zhou] (CAD&CG, ZJU) from October 2019 to May 2020.
 
-I worked in **3D Vision Research Lab** supervised by [Prof. Yuchao Dai] as an undergraduate Research Assistant on Lidar/Visual 3D Registration and Reconstruction, Dual Lidar calibration, etc.
+During my undergraduate study, I worked in **3D Vision Research Lab** supervised by [Prof. Yuchao Dai] as a Research Assistant on Lidar/Visual 3D Registration and Reconstruction, Dual Lidar calibration, etc.
 
 I've served in the **NWPU Dancing Robot Research And Training Base - Rescue Robot Group** [Team - Explorer] for two years as a Robot Software Engineer and Team Leader since July, 2017. 
 As usual, we participate in *RoboCup Rescue Robot League Regional Open Competitions*, and my main contribution is about SLAM, Robot Localization and Navigation, Path Planning, etc.
@@ -35,3 +35,7 @@ Email: [sunjiadai AT foxmail dot com], [sunjiadai AT mail.nwpu.edu.cn]
 [sunjiadai AT foxmail dot com]: mailto:sunjiadai@foxmail.com
 [sunjiadai AT mail.nwpu.edu.cn]: mailto:sunjiadai@mail.nwpu.edu.cn
 [Team - Explorer]: https://github.com/team-explorer-rescue-robot/
+[School of Computer Science]: https://jsj.nwpu.edu.cn/en/Home.htm
+[NWPU]: https://en.nwpu.edu.cn/
+[SenseTime]: https://www.sensetime.com/en
+
