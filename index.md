@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jiadai Sun (孙家岱)
+title: Jiadai Sun 孙家岱
 permalink: /
 ---
 
