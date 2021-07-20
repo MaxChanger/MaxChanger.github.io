@@ -1,17 +1,17 @@
-- title: Home
+- title: About
   href: /
 
-- title: "Research"
-  href: "/research/"
+# - title: "Research"
+#   href: "/research/"
 
-- title: "Experience"
-  href: "/experience/"
+# - title: "Experience"
+#   href: "/experience/"
 
-- title: "CV"
-  href: "/cv/"
+# - title: "CV"
+#   href: "/cv/"
 
-- title: "Misc"
-  href: "/misc/"
+# - title: "Misc"
+#   href: "/misc/"
 
 # - title: "Submenu"
 #   subcategories:
@@ -20,5 +20,5 @@
 #     - subtitle: "Item 2"
 #       subhref: "/misc/item-2/"
 
-- title: "Blog"
-  href: "/_blog/"
+# - title: "Blog"
+#   href: "/_blog/"
