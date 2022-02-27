@@ -1,5 +1,6 @@
 <footer class="site-footer">
-    {{ site.description }} | Jiadai Sun | Last update 20/07/2021<br />
+    <!-- {{ site.description }} | Jiadai Sun | Last update 20/07/2021<br /> -->
+    {{ site.description }} | Jiadai Sun | Last update {{ site.time | date_to_string: "ordinal", "US" }}<br />
  
     <!-- {% if site.sourcecode %}
      :: <a href="{{ site.sourcecode }}">Website source</a>
@@ -8,5 +9,5 @@
     :: Analytics by {{ site.analytics.provider }}
     {% endif %}
     <script type="text/javascript" id="clustrmaps"
-        src="https://cdn.clustrmaps.com/map_v2.js?cl=808080&w=300&t=n&d=2URrE5QxdiyV2N0TTGMyfwWluMPLkDFItkbrrGaG5zA&co=eeeeee&ct=ff5353"></script>
+        src="//clustrmaps.com/map_v2.js?cl=808080&w=300&t=n&d=2URrE5QxdiyV2N0TTGMyfwWluMPLkDFItkbrrGaG5zA&co=eeeeee&ct=ff5353"></script>
 </footer>

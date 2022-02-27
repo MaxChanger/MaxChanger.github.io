@@ -4,10 +4,15 @@ title: Jiadai Sun 孙家岱
 permalink: /
 
 education:
+    - title: "School of Electronics and Information @ Northwestern Polytechnical University, China, 09/2020 - 04/2023"
+      image: "/images/nwpu.png"
+      comment: "-- Master of Engineering | Advisor: [Prof. Yuchao Dai]<br/>
+                -- Overall Average: 93.26/100 "
     - title: "School of Computer Science @ Northwestern Polytechnical University, China, 09/2016 - 06/2020"
       image: "/images/nwpu.png"
       comment: "-- Bachelor of Engineering, Outstanding graduate, Computer Science and Technology | Advisor: [Prof. Yuchao Dai]<br/>
                 -- Overall Average: 88.28/100 | College Comprehensive Evaluation Ranking: 1/248"
+
 interns:
     - title: "3D&AR Group @ MIG of SenseTime Research, Hangzhou, 10/2019 - 05/2020"
       image: "/images/sensetime.png"
@@ -15,7 +20,7 @@ interns:
                 -- Advisor: [Jiaming Sun] and [Prof. Xiaowei Zhou]"
 
 projects:
-    - title: "Leader of Rescue Team -- NWPU Dancing Robot Research & Training Base"
+    - title: "Rescue Team Leader - NPU Dancing Robot Research & Training Base"
       time:  "07/2017 - 08/2019"
       topic: "Topic: SLAM, Robot Localization and Navigation, Path Planning"
       comment: "Goal: Search for several victims placed in the disaster scene simulation site, find and mark them.<br/>
@@ -27,7 +32,7 @@ projects:
           url: https://www.youtube.com/watch?v=hqvpZJrQQSM
       image: "/images/explorer_2.png"
 
-    - title: "Major Member -- NWPU Peak Experience Program with [Prof. Yuchao Dai]"
+    - title: "Major Member - NPU Peak Experience Program with [Prof. Y. Dai]"
       time:  "10/2018 - 06/2020"
       topic: "Research Topic: Visual Technology of Unmanned System Based on Deep Learning"
       comment: "Topic: Lidar/Visual 3D Reconstruction, Deep ICP, Multi-sensor calibration, Visual SLAM etc.  
@@ -41,7 +46,7 @@ projects:
           url: https://youtu.be/eWi_X-0W4QI
       image: "/images/duallidar.png"
 
-    - title: "Intern -- NWPU Optical Imagery Analysis and Learning Center (OPTIMAL)"
+    - title: "Intern - Optical Imagery Analysis and Learning Center (OPTIMAL)"
       time:  "12/2018 - 05/2019"
       topic: "Research Topic: Unsupervised Learning Hash Encoding Schemes for Efficient Image Retrieval"
       comment: "Topic: Unsupervised Learning Hash Encoding Schemes for Efficient Image Retrieval. <br/>
@@ -71,39 +76,86 @@ activities:
       comment: "-- Provided computer maintenance service for students and teachers for free <br/> 
                 -- Connected community organizations to organize and arrange free computer maintenance activities"
 
-# pubs:
-    # - title:   "Paper title in 3-7 words that sound like Clingon"
-    #   author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-    #   journal: "Transactions on Black Magic"
-    #   note:    "(presented at Oz)"
-    #   year:    "2016"
-    #   url:     "http://publish-more-stuff.org"
-    #   doi:     "http://dx.doi.org"
-    #   image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-    #   media:
-    #     - name: "IMDB"
-    #       url:  "http://www.imdb.com/title/tt0133093/"
+pubs:
+    - title:   "A method of LiDAR-based 3D Moving Object Segmentation (under review)"
+      author:  "**Jiadai Sun**, et al."
+      journal: "In submission"
+      year:    "2022"
+      # image:   "/images/no.svg"
+      media:
+        - name: "Paper"
+        - name: "Code"
+
+    - title:   "MUNet: Motion Uncertainty-aware Semi-supervised Video Object Segmentation"
+      author:  "**Jiadai Sun**\\*, Yuxin Mao\\*, Yuchao Dai, Yiran Zhong, Jianyuan Wang (\\* equal contribution)"
+      journal: "arXiv preprint arXiv:2111.14646"
+      # note:    "in submission"
+      year:    "2021"
+      # image:   "/images/no.svg"
+      media:
+        - name: "Paper"
+          url:  "https://arxiv.org/abs/2111.14646"
+        - name: "Code"
+
+    - title:   "End-to-end Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration"
+      author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
+      journal: "Proceedings of the AAAI Conference on Artificial Intelligence"
+      year:    "2022"
+      # image:   "/images/no.svg"
+      media:
+        - name: "Paper"
+          url:  "https://arxiv.org/abs/2110.15250"
+        - name: "Code"
+    
+    - title:   "VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration"
+      author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Bin Fan, Mingyi He"
+      journal: "IEEE Transactions on Circuits and Systems for Video Technology"
+      year:    "2022"
+      doi:     
+      # image:   "/images/no.svg"
+      media:
+        - name: "Paper"
+          url:  "https://ieeexplore.ieee.org/abstract/document/9681904/" #"https://doi.org/10.1109/TCSVT.2022.3143151"
+        - name: "Code"
+    
+    - title:   "A Representation Separation Perspective to Correspondences-free Unsupervised 3D Point Cloud Registration"
+      author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
+      journal: "IEEE Geoscience and Remote Sensing Letters"
+      # note:    "(presented at Oz)"
+      year:    "2021"
+      # image:   "/images/no.svg"
+      media:
+        - name: "Paper"
+          url:  "https://ieeexplore.ieee.org/abstract/document/9638480" #  "https://doi.org/10.1109/LGRS.2021.3132926"
+        - name: "Code"
+
+    - title:   "Deep learning based point cloud registration: an overview"
+      author:  "Zhiyuan Zhang, Yuchao Dai, **Jiadai Sun**"
+      journal: "Virtual Reality & Intelligent Hardware"
+      year:    "2020"
+      # image:   "/images/no.svg"
+      media:
+        - name: "Paper"
+          url:  "https://www.sciencedirect.com/science/article/pii/S2096579620300383" # "https://doi.org/10.1016/j.vrih.2020.05.002"
 ---
 
 <!-- About me -->
 {% include image.html url="images/person3.jpg" caption="" width="190px" align="right" %}
 
-I'm currently a first-year graduate student of Northwestern Polytechnical University([NWPU]) with the supervision of [Prof. Yuchao Dai], and I received my Bachelor's degree in July 2020 from the [School of Computer Science] of NWPU, with the honor of Outstanding Graduate.
+I am currently a second-year (2020- ) graduate student of Northwestern Polytechnical University ([NWPU]) with the supervision of [Prof. Yuchao Dai], and I received my Bachelor's degree in July 2020 from the [School of Computer Science] of NWPU, with the honor of Outstanding Graduate.
 
-I used to be a Research Intern on topics related to 3D Scene Reconstruction and Understanding at **3D&AR Group @ MIG of [SenseTime] Research** supervised by [Jiaming Sun] and [Prof. Xiaowei Zhou] (CAD&CG, ZJU) from October 2019 to May 2020.
-During my undergraduate study, I worked in **3D Vision Research Lab** supervised by [Prof. Yuchao Dai] as a Research Assistant on Lidar/Visual 3D Registration and Reconstruction, Dual Lidar calibration, etc.
-I've served in the **NWPU Dancing Robot Research And Training Base - Rescue Robot Group** [Team - Explorer] for two years as a Robot Software Engineer and Team Leader since July, 2017. 
+Recently, I have been working very closely with [Dr. Xieyuanli Chen] on a research topic about LiDAR-Based Moving Object Segmentation.
+I used to be a Research Intern on topics related to 3D Scene Reconstruction and Understanding at 3D&AR Group @ MIG of [SenseTime] Research supervised by [Jiaming Sun] and [Prof. Xiaowei Zhou] (CAD&CG, ZJU) from October 2019 to May 2020.
+During my undergraduate study, I worked in [CVR-Lab] supervised by [Prof. Yuchao Dai] as a Research Assistant on Lidar/Visual 3D Registration and Reconstruction, Dual Lidar calibration, etc.
+I've served in the NWPU Dancing Robot Research And Training Base - Rescue Robot Group [Team - Explorer] for two years as a Robot Software Engineer and Team Leader since July, 2017. 
 As usual, we participate in *RoboCup Rescue Robot League Regional Open Competitions*, and my main contribution is about SLAM, Robot Localization and Navigation, Path Planning, etc.
 
-Github: [MaxChanger] \| Email: [sunjiadai AT foxmail dot com], [sunjiadai AT mail.nwpu.edu.cn]
+Github: [MaxChanger] \| [Google Scholar] \| Email: [sunjiadai AT foxmail dot com], [sunjiadai AT mail.nwpu.edu.cn]
 
 
 ## Research Interest
-3D Vision, Robotics, SLAM, Autonomous Driving, Point Cloud Understanding, Motion Understanding & Video Object Segmentation
-<!-- 3D Visual Perception, 3D Vision, Robotics, SLAM, Deep Learning, Autonomous Driving <br />
-Point Cloud Registration and Understanding <br />
-Point Cloud Scene Flow <br />
-Motion Understanding & Video Object Segmentation -->
+3D Vision, Robotics, SLAM, Autonomous Driving, Point Cloud Understanding, Motion Understanding
+<!-- 3D Visual Perception, 3D Vision, Robotics, SLAM, Deep Learning, Autonomous Driving & Video Object Segmentation <br /> -->
 
 
 ## Education & Intern Experience
@@ -129,21 +181,20 @@ Motion Understanding & Video Object Segmentation -->
 ## Publications
 <!-- Will upload soon... -->
 This part will be updated as soon as my on-going projects are approved to be made public which should be quite exciting.<br/>
--- Two Learning-based point cloud registration work (collaborator, in submission); <br/>
--- A work of Video Object Segmentation (in submission);
 
 {% assign thumbnail="left" %}
-<!-- {% for pub in page.pubs %}
+{% for pub in page.pubs %}
 {% if pub.image %}
 {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
 {% endif %}
-[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+<!-- [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br /> -->
+- **{{pub.title}}**<br />
 {{pub.author}}<br />
-*{{pub.journal}}*
-{% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
-{% endfor %} -->
+*{{pub.journal}}* {% if pub.note %} *({{pub.note}})* {% endif %} {% if pub.year %} *{{pub.year}}* {% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% if pub.media %} {% for item in pub.media %} {% if item.url %} [[{{item.name}}]({{item.url}}){:target="_blank"}] {% else %} [{{item.name}}] {% endif %}
+{% endfor %}
+{% endif %}
+{% endfor %}
 
 
 ## Projects
@@ -157,7 +208,9 @@ This part will be updated as soon as my on-going projects are approved to be mad
 {% endfor %}
 
 
-## Honor & Awards
+## Honors & Awards
+- **Outstanding Graduate Students** (First-class Academic Scholarship) \| Northwestern Polytechnical University, 2020-2021
+- **Third Prize** \| 16th China Postgraduate Electronic Design Competition, Shaoxing, 08/2021
 - **Outstanding Graduate** and **Excellent Graduation Projects** \| Northwestern Polytechnical University, 06/2020
 - **Outstanding Students** \| Northwestern Polytechnical University (top 14.7%), 2016-2019, three consecutive years
 - Aviation Industry Special Scholarship (first-class  top 0.5%), 2018-2019
@@ -170,7 +223,7 @@ This part will be updated as soon as my on-going projects are approved to be mad
 - **First Prize** \| Zhonghangzhi Technology Co., Ltd. "Lianfei Cup" Challenge Result Presentation, 11/2018
 - **First Prize** \| National Undergraduate Mathematical Modeling Competition (Shaanxi Province), 09/2017
 - **Second Prize** \| The 11th National University Student Technology Contest on Energy-saving, Wuhan, 08/2018
-- **Third   Prize** \| National University Cloud Computing Application Innovation Competition, Nanjing, 04/2018
+- **Third Prize** \| National University Cloud Computing Application Innovation Competition, Nanjing, 04/2018
 - **Silver Award** \| "Internet +" College Student Innovation and Entrepreneurship Competition, Shaanxi, 10/2018
 - **Silver Award** \| The 11th "Creating Youth" College Entrepreneurship Competition, NWPU, 04/2018
 - **Excellent Project** \| University Student Innovation and Entrepreneurship Training Program, 2017-2018
@@ -185,9 +238,10 @@ Chief Propagandist & Technical Support of Summer Social Practice Activities \| *
 Minister of Public Relations Department of Computer Volunteer Service Team \| *10/2016 - 10/2018* \| [[Image]](/images/volunteer.jpg){:target="_blank"} <br/>
 
 
-<!--H yperlinks -->
+<!--Hyperlinks -->
 [Prof. Xiaowei Zhou]: http://xzhou.me/
 [Prof. Yuchao Dai]: https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en
+[Prof. Y. Dai]: https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en
 [Jiaming Sun]: https://jiamingsun.ml/
 [MaxChanger]: https://github.com/MaxChanger
 [sunjiadai AT foxmail dot com]: mailto:sunjiadai@foxmail.com
@@ -196,4 +250,7 @@ Minister of Public Relations Department of Computer Volunteer Service Team \| *1
 [School of Computer Science]: https://jsj.nwpu.edu.cn/en/Home.htm
 [NWPU]: https://en.nwpu.edu.cn/
 [SenseTime]: https://www.sensetime.com/en
-[Dr. Zhanxuan Hu]: https://scholar.google.com/citations?user=5z09EL0AAAAJ
+[Dr. Zhanxuan Hu]: https://kdd-code.github.io/
+[Google Scholar]: https://scholar.google.com/citations?user=GNe24ewAAAAJ&hl=en
+[Dr. Xieyuanli Chen]: https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl=en
+[CVR-Lab]: http://npu-cvr.cn/
