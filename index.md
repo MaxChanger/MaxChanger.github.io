@@ -77,9 +77,9 @@ activities:
                 -- Connected community organizations to organize and arrange free computer maintenance activities"
 
 pubs:
-    - title:   "A method of LiDAR-based 3D Moving Object Segmentation (under review)"
+    - title:   "Efficient Spatial-Temporal Information Fusion for LiDAR-based 3D Moving Object Segmentation"
       author:  "**Jiadai Sun**, et al."
-      journal: "In submission"
+      journal: "In RAL/IROS submission."
       year:    "2022"
       # image:   "/images/no.svg"
       media:
@@ -93,7 +93,7 @@ pubs:
       year:    "2021"
       # image:   "/images/no.svg"
       media:
-        - name: "Paper"
+        - name: "arXiv"
           url:  "https://arxiv.org/abs/2111.14646"
         - name: "Code"
 
@@ -103,7 +103,7 @@ pubs:
       year:    "2022"
       # image:   "/images/no.svg"
       media:
-        - name: "Paper"
+        - name: "arXiv"
           url:  "https://arxiv.org/abs/2110.15250"
         - name: "Code"
     
@@ -116,6 +116,8 @@ pubs:
       media:
         - name: "Paper"
           url:  "https://ieeexplore.ieee.org/abstract/document/9681904/" #"https://doi.org/10.1109/TCSVT.2022.3143151"
+        - name: "arXiv"
+          url:  "https://arxiv.org/abs/2203.13241"
         - name: "Code"
     
     - title:   "A Representation Separation Perspective to Correspondences-free Unsupervised 3D Point Cloud Registration"
@@ -127,6 +129,8 @@ pubs:
       media:
         - name: "Paper"
           url:  "https://ieeexplore.ieee.org/abstract/document/9638480" #  "https://doi.org/10.1109/LGRS.2021.3132926"
+        - name: "arXiv"
+          url:  "https://arxiv.org/abs/2203.13239"
         - name: "Code"
 
     - title:   "Deep learning based point cloud registration: an overview"
@@ -151,6 +155,8 @@ I've served in the NWPU Dancing Robot Research And Training Base - Rescue Robot 
 As usual, we participate in *RoboCup Rescue Robot League Regional Open Competitions*, and my main contribution is about SLAM, Robot Localization and Navigation, Path Planning, etc.
 
 Github: [MaxChanger] \| [Google Scholar] \| Email: [sunjiadai AT foxmail dot com], [sunjiadai AT mail.nwpu.edu.cn]
+
+<font color='#318CE7'><b>- I am looking for an internship or job opportunity on 3DV, please email me if you think we are a good fit.</b></font>
 
 
 ## Research Interest
