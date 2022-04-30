@@ -119,7 +119,17 @@ pubs:
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2203.13241"
         - name: "Code"
-    
+
+    - title:   "Searching Dense Point Correspondences via Permutation Matrix Learning"
+      author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Bin Fan, Qi Liu"
+      journal: "IEEE Signal Processing Letters"
+      year:    "2022"
+      doi:     
+      # image:   "/images/no.svg"
+      media:
+        - name: "Paper"
+        - name: "Code"
+
     - title:   "A Representation Separation Perspective to Correspondences-free Unsupervised 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
       journal: "IEEE Geoscience and Remote Sensing Letters"
