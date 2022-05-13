@@ -14,6 +14,10 @@ education:
                 -- Overall Average: 88.28/100 | College Comprehensive Evaluation Ranking: 1/248"
 
 interns:
+    - title: "Perception Algo. @ Intelligent Algo. Dept. of HAOMO.AI, Beijing, 11/2021 - 04/2022"
+      image: "/images/haomo.jpg"
+      comment: "-- Online LiDAR-based 3D Moving Object Segmentation.<br/>
+                -- Advisor: [Dr. Xieyuanli Chen] and Xianjing Zhang"
     - title: "3D&AR Group @ MIG of SenseTime Research, Hangzhou, 10/2019 - 05/2020"
       image: "/images/sensetime.png"
       comment: "-- 3D Scene Reconstruction and Understanding | RGB-D Indoor Scene and Object Reconstruction<br/>
@@ -128,6 +132,7 @@ pubs:
       # image:   "/images/no.svg"
       media:
         - name: "Paper"
+          url: "https://ieeexplore.ieee.org/abstract/document/9769864"
         - name: "Code"
 
     - title:   "A Representation Separation Perspective to Correspondences-free Unsupervised 3D Point Cloud Registration"
@@ -166,7 +171,7 @@ As usual, we participate in *RoboCup Rescue Robot League Regional Open Competiti
 
 Github: [MaxChanger] \| [Google Scholar] \| Email: [sunjiadai AT foxmail dot com], [sunjiadai AT mail.nwpu.edu.cn]
 
-<font color='#318CE7'><b>- I am looking for an internship or job opportunity on 3DV, please email me if you think we are a good fit.</b></font>
+<font color='#318CE7'><b>- I am looking for a job opportunity about 3DV, free to contact me if you think we are a good fit.</b></font>
 
 
 ## Research Interest
