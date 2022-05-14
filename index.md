@@ -107,8 +107,20 @@ pubs:
       year:    "2022"
       # image:   "/images/no.svg"
       media:
+        - name: "Paper"
+          url: "https://aaai-2022.virtualchair.net/poster_aaai7418"
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2110.15250"
+        - name: "Code"
+    - title:   "Self-supervised Rigid Transformation Equivariance for Accurate 3D Point Cloud Registration"
+      author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
+      journal: "Pattern Recognition"
+      year:    "2022"
+      # image:   "/images/no.svg"
+      media:
+        - name: "Paper"
+          url: "https://doi.org/10.1016/j.patcog.2022.108784"
+        - name: "arXiv"
         - name: "Code"
     
     - title:   "VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration"
