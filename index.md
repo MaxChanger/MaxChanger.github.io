@@ -100,7 +100,16 @@ pubs:
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2111.14646"
         - name: "Code"
-
+    - title:   "Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis"
+      author:  "Xiang Guo, Guanying Chen, Yuchao Dai, Xiaoqing Ye, Jiadai Sun, Xiao Tan, Errui Ding"
+      journal: "arXiv preprint arXiv:2206.07698"
+      # note:    "in submission"
+      year:    "2021"
+      # image:   "/images/no.svg"
+      media:
+        - name: "arXiv"
+          url:  "https://arxiv.org/abs/2206.07698"
+        - name: "Code"
     - title:   "End-to-end Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
       journal: "Proceedings of the AAAI Conference on Artificial Intelligence"
