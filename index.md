@@ -14,14 +14,18 @@ education:
                 -- Overall Average: 88.28/100 | College Comprehensive Evaluation Ranking: 1/248"
 
 interns:
+    - title: "Robotics and Autonomous Driving Lab @ Baidu Research, Beijing, 04/2022 - now"
+      image: "/images/baidu_research.png"
+      comment: "-- Scene Reconstruction ans Novel View Synthesis.<br/>
+                -- Mentor: [Dingfu Zhou], [Xibin Song] and [Liangjun Zhang]"
     - title: "Perception Algo. @ Intelligent Algo. Dept. of HAOMO.AI, Beijing, 11/2021 - 04/2022"
       image: "/images/haomo.jpg"
       comment: "-- Online LiDAR-based 3D Moving Object Segmentation.<br/>
-                -- Advisor: [Dr. Xieyuanli Chen] and Xianjing Zhang"
+                -- Mentor: [Xieyuanli Chen] and Xianjing Zhang"
     - title: "3D&AR Group @ MIG of SenseTime Research, Hangzhou, 10/2019 - 05/2020"
       image: "/images/sensetime.png"
       comment: "-- 3D Scene Reconstruction and Understanding | RGB-D Indoor Scene and Object Reconstruction<br/>
-                -- Advisor: [Jiaming Sun] and [Prof. Xiaowei Zhou]"
+                -- Mentor: [Jiaming Sun] and [Prof. Xiaowei Zhou]"
 
 projects:
     - title: "Rescue Team Leader - NPU Dancing Robot Research & Training Base"
@@ -97,16 +101,20 @@ pubs:
       year:    "2021"
       # image:   "/images/no.svg"
       media:
+        - name: "Page"
+          url:  https://npucvr.github.io/MUNet/
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2111.14646"
         - name: "Code"
     - title:   "Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis"
-      author:  "Xiang Guo, Guanying Chen, Yuchao Dai, Xiaoqing Ye, Jiadai Sun, Xiao Tan, Errui Ding"
+      author:  "Xiang Guo, Guanying Chen, Yuchao Dai, Xiaoqing Ye, **Jiadai Sun**, Xiao Tan, Errui Ding"
       journal: "arXiv preprint arXiv:2206.07698"
       # note:    "in submission"
       year:    "2021"
       # image:   "/images/no.svg"
       media:
+        - name: "Page"
+          url:  https://npucvr.github.io/NDVG/
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2206.07698"
         - name: "Code"
@@ -184,7 +192,8 @@ pubs:
 
 I am currently a second-year (2020- ) graduate student of Northwestern Polytechnical University ([NWPU]) with the supervision of [Prof. Yuchao Dai], and I received my Bachelor's degree in July 2020 from the [School of Computer Science] of NWPU, with the honor of Outstanding Graduate.
 
-Recently, I have been working very closely with [Dr. Xieyuanli Chen] on a research topic about LiDAR-Based Moving Object Segmentation.
+Recently, I am a Research Intern at the [Robotics and Autonomous Driving Lab] of Baidu Research, and I have been working very closely with [Xibin Song] and [Dingfu Zhou] on a research topic about Scene Reconstruction and Novel View Synthesis.
+Before that, I have been working very closely with [Xieyuanli Chen] on a research topic about LiDAR-Based Moving Object Segmentation at Haomo.AI.
 I used to be a Research Intern on topics related to 3D Scene Reconstruction and Understanding at 3D&AR Group @ MIG of [SenseTime] Research supervised by [Jiaming Sun] and [Prof. Xiaowei Zhou] (CAD&CG, ZJU) from October 2019 to May 2020.
 During my undergraduate study, I worked in [CVR-Lab] supervised by [Prof. Yuchao Dai] as a Research Assistant on Lidar/Visual 3D Registration and Reconstruction, Dual Lidar calibration, etc.
 I've served in the NWPU Dancing Robot Research And Training Base - Rescue Robot Group [Team - Explorer] for two years as a Robot Software Engineer and Team Leader since July, 2017. 
@@ -192,7 +201,7 @@ As usual, we participate in *RoboCup Rescue Robot League Regional Open Competiti
 
 Github: [MaxChanger] \| [Google Scholar] \| Email: [sunjiadai AT foxmail dot com], [sunjiadai AT mail.nwpu.edu.cn]
 
-<font color='#318CE7'><b>- I am looking for a job opportunity about 3DV, free to contact me if you think we are a good fit.</b></font>
+<font color='#318CE7'><b>- I am looking for a job opportunity about 3DVision, free to contact me if you think we are a good fit.</b></font>
 
 
 ## Research Interest
@@ -294,5 +303,9 @@ Minister of Public Relations Department of Computer Volunteer Service Team \| *1
 [SenseTime]: https://www.sensetime.com/en
 [Dr. Zhanxuan Hu]: https://kdd-code.github.io/
 [Google Scholar]: https://scholar.google.com/citations?user=GNe24ewAAAAJ&hl=en
-[Dr. Xieyuanli Chen]: https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl=en
+[Xieyuanli Chen]: https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl=en
 [CVR-Lab]: http://npu-cvr.cn/
+[Dingfu Zhou]: https://scholar.google.com/citations?user=pfBeKioAAAAJ&hl=en
+[Xibin Song]: https://scholar.google.com/citations?user=2gudyEQAAAAJ&hl=en
+[Liangjun Zhang]: https://www.cs.unc.edu/~zlj/
+[Robotics and Autonomous Driving Lab]: http://research.baidu.com/Research_Areas/index-view?id=58
