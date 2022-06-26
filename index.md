@@ -16,7 +16,7 @@ education:
 interns:
     - title: "Robotics and Autonomous Driving Lab @ Baidu Research, Beijing, 04/2022 - now"
       image: "/images/baidu_research.png"
-      comment: "-- Scene Reconstruction ans Novel View Synthesis.<br/>
+      comment: "-- Scene Reconstruction and Novel View Synthesis.<br/>
                 -- Mentor: [Dingfu Zhou], [Xibin Song] and [Liangjun Zhang]"
     - title: "Perception Algo. @ Intelligent Algo. Dept. of HAOMO.AI, Beijing, 11/2021 - 04/2022"
       image: "/images/haomo.jpg"
