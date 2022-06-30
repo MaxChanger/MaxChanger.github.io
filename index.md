@@ -281,7 +281,7 @@ This part will be updated as soon as my on-going projects are approved to be mad
 - **Good Project** \| University Student Innovation and Entrepreneurship Training Program, 2017-2018
 
 ## Misc.
-- I love traveling and photography, and the scenery in northwestern China is usually exciting. (11/34 provinces)<br/>
+- I love traveling and photography, and the scenery in northwestern China is usually exciting. (13/34 provinces) [**[500px]**]<br/>
 - In the past I used to use Hexo and Markdown to make some records. It is written in Chinese. **[Click &rArr;BLOG-LINK](https://sunjiadai.xyz/blog){:target="_blank"}** <br/>
 - Some meaningful extracurricular activities during my undergraduate: <br/>
 Vice President of Tencent Innovation Club \| *10/2016 - 07/2019* \| [[Image]](/images/tic.jpg){:target="_blank"} <br/>
@@ -309,3 +309,4 @@ Minister of Public Relations Department of Computer Volunteer Service Team \| *1
 [Xibin Song]: https://scholar.google.com/citations?user=2gudyEQAAAAJ&hl=en
 [Liangjun Zhang]: https://www.cs.unc.edu/~zlj/
 [Robotics and Autonomous Driving Lab]: http://research.baidu.com/Research_Areas/index-view?id=58
+[500px]: https://500px.com/p/changersunjd?view=photos
