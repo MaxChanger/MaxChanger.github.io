@@ -86,8 +86,8 @@ activities:
 
 pubs:
     - title:   "Efficient Spatial-Temporal Information Fusion for LiDAR-based 3D Moving Object Segmentation"
-      author:  "**Jiadai Sun**, et al."
-      journal: "In RAL/IROS submission."
+      author:  "**Jiadai Sun**, Yuchao Dai, Xianjing Zhang, Jintao Xu, Rui Ai, Weihao Gu, Cyrill Stachniss, Xieyuanli Chen"
+      journal: "Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
       year:    "2022"
       # image:   "/images/no.svg"
       media:
@@ -120,7 +120,7 @@ pubs:
         - name: "Code"
     - title:   "End-to-end Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
-      journal: "Proceedings of the AAAI Conference on Artificial Intelligence"
+      journal: "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)"
       year:    "2022"
       # image:   "/images/no.svg"
       media:
@@ -131,7 +131,7 @@ pubs:
         - name: "Code"
     - title:   "Self-supervised Rigid Transformation Equivariance for Accurate 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
-      journal: "Pattern Recognition"
+      journal: "Pattern Recognition (PR)"
       year:    "2022"
       # image:   "/images/no.svg"
       media:
@@ -142,7 +142,7 @@ pubs:
     
     - title:   "VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Bin Fan, Mingyi He"
-      journal: "IEEE Transactions on Circuits and Systems for Video Technology"
+      journal: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
       year:    "2022"
       doi:     
       # image:   "/images/no.svg"
@@ -155,7 +155,7 @@ pubs:
 
     - title:   "Searching Dense Point Correspondences via Permutation Matrix Learning"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Bin Fan, Qi Liu"
-      journal: "IEEE Signal Processing Letters"
+      journal: "IEEE Signal Processing Letters (SPL)"
       year:    "2022"
       doi:     
       # image:   "/images/no.svg"
@@ -166,7 +166,7 @@ pubs:
 
     - title:   "A Representation Separation Perspective to Correspondences-free Unsupervised 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
-      journal: "IEEE Geoscience and Remote Sensing Letters"
+      journal: "IEEE Geoscience and Remote Sensing Letters (GRSL)"
       # note:    "(presented at Oz)"
       year:    "2021"
       # image:   "/images/no.svg"
@@ -192,7 +192,7 @@ pubs:
 
 I am currently a second-year (2020- ) graduate student of Northwestern Polytechnical University ([NWPU]) with the supervision of [Prof. Yuchao Dai], and I received my Bachelor's degree in July 2020 from the [School of Computer Science] of NWPU, with the honor of Outstanding Graduate.
 
-Recently, I am a Research Intern at the [Robotics and Autonomous Driving Lab] of Baidu Research, and I have been working very closely with [Xibin Song] and [Dingfu Zhou] on a research topic about Scene Reconstruction and Novel View Synthesis.
+Currently, I am a Research Intern at the [Robotics and Autonomous Driving Lab] of Baidu Research, and working very closely with [Xibin Song] and [Dingfu Zhou] on a research topic about Scene Reconstruction and Novel View Synthesis.
 Before that, I have been working very closely with [Xieyuanli Chen] on a research topic about LiDAR-Based Moving Object Segmentation at Haomo.AI.
 I used to be a Research Intern on topics related to 3D Scene Reconstruction and Understanding at 3D&AR Group @ MIG of [SenseTime] Research supervised by [Jiaming Sun] and [Prof. Xiaowei Zhou] (CAD&CG, ZJU) from October 2019 to May 2020.
 During my undergraduate study, I worked in [CVR-Lab] supervised by [Prof. Yuchao Dai] as a Research Assistant on Lidar/Visual 3D Registration and Reconstruction, Dual Lidar calibration, etc.
