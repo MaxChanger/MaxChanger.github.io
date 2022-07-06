@@ -91,8 +91,14 @@ pubs:
       year:    "2022"
       # image:   "/images/no.svg"
       media:
-        - name: "Paper"
+        - name: "Page"
+          url:  https://npucvr.github.io/MotionSeg3D/
+        - name: "arXiv"
+          url: https://arxiv.org/abs/2207.02201
         - name: "Code"
+          url: https://github.com/haomo-ai/MotionSeg3D
+        - name: "Data"
+          url: https://github.com/haomo-ai/MotionSeg3D/blob/master/config/kitti_road_mos.md
 
     - title:   "MUNet: Motion Uncertainty-aware Semi-supervised Video Object Segmentation"
       author:  "**Jiadai Sun**\\*, Yuxin Mao\\*, Yuchao Dai, Yiran Zhong, Jianyuan Wang (\\* equal contribution)"
