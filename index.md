@@ -191,6 +191,31 @@ pubs:
       media:
         - name: "Paper"
           url:  "https://www.sciencedirect.com/science/article/pii/S2096579620300383" # "https://doi.org/10.1016/j.vrih.2020.05.002"
+
+news:
+    shown:
+      - time: Jun 30, 2022
+        note: <a href="https://github.com/haomo-ai/MotionSeg3D" target="_blank">MotionSeg3D</a> accepted to IROS 2022 &#127867;&#127881; 
+      - time: May 07, 2022
+        note: One paper accepted to Pattern Recognition (PR) &#128079; 
+      - time: Apr 30, 2022
+        note: One paper accepted to SPL
+      - time: Apr 27, 2022
+        note: Start a new internship at RA-Lab @ Baidu Research &#127881;&#128526; <span id="points">...</span>
+
+    hidden:
+      - time: Jan 10, 2022
+        note: One paper accepted to TCSVT &#128079; 
+      - time: Dec 01, 2021
+        note: One paper accepted to AAAI 2022 &#128079; 
+      - time: Nov 29, 2021
+        note: One paper accepted to GRSL
+      - time: Nov 26, 2021
+        note: Start a internship at Perception Group @ HAOMO.AI &#128526;
+      - time: May 11, 2020
+        note: One survey paper accepted to VR&IH
+      - time: Oct 14, 2019
+        note: Start a internship at MIG-3D&AR Group @ SenseTime Research &#128526;
 ---
 
 <!-- About me -->
@@ -207,13 +232,28 @@ As usual, we participate in *RoboCup Rescue Robot League Regional Open Competiti
 
 Github: [MaxChanger] \| [Google Scholar] \| Email: [sunjiadai AT foxmail dot com], [sunjiadai AT mail.nwpu.edu.cn]
 
-<font color='#318CE7'><b>- I am looking for a job opportunity about 3DVision, free to contact me if you think we are a good fit.</b></font>
+<font color='#318CE7'><b>- I am looking for a job opportunity about 3DVision, free to contact me if you think we are a good match.</b></font>
 
 
 ## Research Interest
 3D Vision, Robotics, SLAM, Autonomous Driving, Point Cloud Understanding, Motion Understanding
 <!-- 3D Visual Perception, 3D Vision, Robotics, SLAM, Deep Learning, Autonomous Driving & Video Object Segmentation <br /> -->
 
+
+## Recent News
+<ul>
+  {% for new in page.news.shown %}
+    <li> [{{new.time}}] {{new.note}} </li>
+  {% endfor %}
+  
+  <span id="moreText"> 
+    {% for new in page.news.hidden %}
+      <li> [{{new.time}}] {{new.note}} </li>
+    {% endfor %}
+  </span>
+</ul>
+<!-- Trigger toggleText() when the  button is clicked -->
+<button onclick="toggleText()" id="textButton" class="showbutton"> Show More </button>
 
 ## Education & Intern Experience
 
@@ -287,6 +327,7 @@ This part will be updated as soon as my on-going projects are approved to be mad
 - **Good Project** \| University Student Innovation and Entrepreneurship Training Program, 2017-2018
 
 ## Misc.
+<!-- - Rejected list: [AAA21, CVPR21, ICCV21, BMVC21, CVPR22, ECCV22] &#129318; -->
 - I love traveling and photography, and the scenery in northwestern China is usually exciting. (13/34 provinces) [**[500px]**]<br/>
 - In the past I used to use Hexo and Markdown to make some records. It is written in Chinese. **[Click &rArr;BLOG-LINK](https://sunjiadai.xyz/blog){:target="_blank"}** <br/>
 - Some meaningful extracurricular activities during my undergraduate: <br/>

@@ -24,4 +24,41 @@
     <link rel="icon" href="/images/web_logo.jpg" type="image/jpg">
     <link rel="shortcut icon" href="/images/web_logo.jpg" type="image/jpg">
 
+    <style>
+        /* Used for the hidden ul list, add by sun;
+           Initially, hide the extra text that can be revealed with the button */
+        #moreText {  display: none; } /* Display nothing for the element */
+        .showbutton {
+            appearance: none;
+            background: transparent;
+            outline: none;
+            border: 1px solid grey;
+            border-radius: 2px;
+            margin-left:12px;
+            font-size: small;
+            cursor: pointer;
+            padding: .2rem .25rem;
+            font-family: inherit
+        }
+    </style>
+    <script>
+        function toggleText() {
+    
+            // Get all the elements from the page
+            var points =  document.getElementById("points");
+            var showMoreText = document.getElementById("moreText");
+            var buttonText = document.getElementById("textButton");
+    
+            // If the display property of the dots to be displayed is already set to 'none' (that is hidden) then this section of code triggers
+            if (points.style.display === "none") {
+                showMoreText.style.display = "none"; // Hide the text between the span elements
+                points.style.display = "inline"; // Show the dots after the text
+                buttonText.innerHTML = "Show More"; // Change the text on button to 'Show More'
+            } else { // If the hidden portion is revealed, we will change it back to be hidden
+                showMoreText.style.display = "inline"; // Show the text between the span elements            
+                points.style.display = "none"; // Hide the dots after the text
+                buttonText.innerHTML = "Hidden"; // Change the text on button to 'Show Less'
+            }
+        }
+    </script>
 </head>
