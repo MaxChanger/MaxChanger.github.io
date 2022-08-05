@@ -206,6 +206,8 @@ pubs:
 
 news:
     shown:
+      - time: Aug 01, 2022
+        note: One paper accepted to TCSVT &#128079; 
       - time: Jun 30, 2022
         note: <a href="https://github.com/haomo-ai/MotionSeg3D" target="_blank">MotionSeg3D</a> accepted to IROS 2022 &#127867;&#127881; 
       - time: May 07, 2022
