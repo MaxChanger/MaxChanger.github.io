@@ -145,7 +145,7 @@ pubs:
           url: "https://doi.org/10.1016/j.patcog.2022.108784"
         - name: "arXiv"
         - name: "Code"
-    
+
     - title:   "VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Bin Fan, Mingyi He"
       journal: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
@@ -158,6 +158,18 @@ pubs:
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2203.13241"
         - name: "Code"
+
+    - title:   "Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds"
+      author:  "Zhiyuan Zhang, Yuchao Dai, Bin Fan, **Jiadai Sun**, Mingyi He"
+      journal: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
+      year:    "2022"
+      doi:     
+      # image:   "/images/no.svg"
+      media:
+        - name: "Paper"
+          url:  "https://ieeexplore.ieee.org/abstract/document/9847261/"
+        - name: "arXiv"
+        - name: "Code"    
 
     - title:   "Searching Dense Point Correspondences via Permutation Matrix Learning"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Bin Fan, Qi Liu"
