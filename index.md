@@ -124,6 +124,15 @@ pubs:
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2206.07698"
         - name: "Code"
+    - title:   "CU-Net: LiDAR Depth-only Completion with Coupled U-Net"
+      author:  "Yufei Wang, Yuchao Dai, Qi Liu, Peng Yang, **Jiadai Sun**, Bo Li"
+      journal: "IEEE Robotics and Automation Letters (RA-L)"
+      year:    "2022"
+      # image:   "/images/no.svg"
+      media:
+        - name: "Page"
+        - name: "arXiv"
+        - name: "Code"
     - title:   "End-to-end Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
       journal: "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)"
@@ -206,6 +215,8 @@ pubs:
 
 news:
     shown:
+      - time: Aug 11, 2022
+        note: One paper accepted to RA-L &#127867;
       - time: Aug 01, 2022
         note: One paper accepted to TCSVT &#128079; 
       - time: Jun 30, 2022
