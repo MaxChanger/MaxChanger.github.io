@@ -130,6 +130,8 @@ pubs:
       year:    "2022"
       # image:   "/images/no.svg"
       media:
+        - name: "Paper"
+          url: "https://ieeexplore.ieee.org/document/9866514"
         - name: "Page"
         - name: "arXiv"
         - name: "Code"
@@ -246,7 +248,7 @@ news:
 <!-- About me -->
 {% include image.html url="images/person3.jpg" caption="" width="190px" align="right" %}
 
-I am currently a second-year (2020- ) graduate student of Northwestern Polytechnical University ([NWPU]) with the supervision of [Prof. Yuchao Dai], and I received my Bachelor's degree in July 2020 from the [School of Computer Science] of NWPU, with the honor of Outstanding Graduate.
+I am currently a third-year (2020- ) graduate student of Northwestern Polytechnical University ([NWPU]) with the supervision of [Prof. Yuchao Dai], and I received my Bachelor's degree in July 2020 from the [School of Computer Science] of NWPU, with the honor of Outstanding Graduate.
 
 Currently, I am a Research Intern at the [Robotics and Autonomous Driving Lab] of Baidu Research, and working very closely with [Xibin Song] and [Dingfu Zhou] on a research topic about Scene Reconstruction and Novel View Synthesis.
 Before that, I have been working very closely with [Xieyuanli Chen] on a research topic about LiDAR-Based Moving Object Segmentation at Haomo.AI.
