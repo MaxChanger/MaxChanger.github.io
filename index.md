@@ -114,9 +114,8 @@ pubs:
         - name: "Code"
     - title:   "Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis"
       author:  "Xiang Guo, Guanying Chen, Yuchao Dai, Xiaoqing Ye, **Jiadai Sun**, Xiao Tan, Errui Ding"
-      journal: "arXiv preprint arXiv:2206.07698"
-      # note:    "in submission"
-      year:    "2021"
+      journal: "Proceedings of the Asian Conference on Computer Vision (ACCV)"
+      year:    "2022"
       # image:   "/images/no.svg"
       media:
         - name: "Page"
@@ -135,6 +134,7 @@ pubs:
         - name: "Page"
         - name: "arXiv"
         - name: "Code"
+          url: https://github.com/YufeiWang777/CU-Net
     - title:   "End-to-end Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
       journal: "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)"
@@ -217,8 +217,10 @@ pubs:
 
 news:
     shown:
+      - time: Sep 17, 2022
+        note: One paper (NDVG) accepted to ACCV 2022 &#127881;
       - time: Aug 11, 2022
-        note: One paper accepted to RA-L &#127867;
+        note: One paper (CU-Net) accepted to RA-L &#127867;
       - time: Aug 01, 2022
         note: One paper accepted to TCSVT &#128079; 
       - time: Jun 30, 2022
