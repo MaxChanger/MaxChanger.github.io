@@ -7,7 +7,7 @@ education:
     - title: "School of Electronics and Information @ Northwestern Polytechnical University, China, 09/2020 - 04/2023"
       image: "/images/nwpu.png"
       comment: "-- Master of Engineering | Advisor: [Prof. Yuchao Dai]<br/>
-                -- Overall Average: 93.26/100 "
+                -- Overall Average: 93.26 (3/257) | College Comprehensive Evaluation Ranking: 5/257"
     - title: "School of Computer Science @ Northwestern Polytechnical University, China, 09/2016 - 06/2020"
       image: "/images/nwpu.png"
       comment: "-- Bachelor of Engineering, Outstanding graduate, Computer Science and Technology | Advisor: [Prof. Yuchao Dai]<br/>
@@ -86,7 +86,7 @@ activities:
 
 pubs:
     - title:   "Efficient Spatial-Temporal Information Fusion for LiDAR-based 3D Moving Object Segmentation"
-      author:  "**Jiadai Sun**, Yuchao Dai, Xianjing Zhang, Jintao Xu, Rui Ai, Weihao Gu, Cyrill Stachniss, Xieyuanli Chen"
+      author:  "**Jiadai Sun**, Yuchao Dai, Xianjing Zhang, Jintao Xu, Rui Ai, Weihao Gu, Xieyuanli Chen"
       journal: "Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
       year:    "2022"
       # image:   "/images/no.svg"
@@ -114,7 +114,7 @@ pubs:
         - name: "Code"
     - title:   "Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis"
       author:  "Xiang Guo, Guanying Chen, Yuchao Dai, Xiaoqing Ye, **Jiadai Sun**, Xiao Tan, Errui Ding"
-      journal: "Proceedings of the Asian Conference on Computer Vision (ACCV)"
+      journal: "Proceedings of the Asian Conference on Computer Vision (ACCV) [Oral]"
       year:    "2022"
       # image:   "/images/no.svg"
       media:
@@ -131,8 +131,9 @@ pubs:
       media:
         - name: "Paper"
           url: "https://ieeexplore.ieee.org/document/9866514"
-        - name: "Page"
+        # - name: "Page"
         - name: "arXiv"
+          url: "https://arxiv.org/abs/2210.14898"
         - name: "Code"
           url: https://github.com/YufeiWang777/CU-Net
     - title:   "End-to-end Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration"
@@ -168,7 +169,7 @@ pubs:
           url:  "https://ieeexplore.ieee.org/abstract/document/9681904/" #"https://doi.org/10.1109/TCSVT.2022.3143151"
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2203.13241"
-        - name: "Code"
+        # - name: "Code"
 
     - title:   "Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds"
       author:  "Zhiyuan Zhang, Yuchao Dai, Bin Fan, **Jiadai Sun**, Mingyi He"
@@ -180,7 +181,8 @@ pubs:
         - name: "Paper"
           url:  "https://ieeexplore.ieee.org/abstract/document/9847261/"
         - name: "arXiv"
-        - name: "Code"    
+          url:  "https://arxiv.org/abs/2210.14899"
+        # - name: "Code"
 
     - title:   "Searching Dense Point Correspondences via Permutation Matrix Learning"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Bin Fan, Qi Liu"
@@ -191,7 +193,8 @@ pubs:
       media:
         - name: "Paper"
           url: "https://ieeexplore.ieee.org/abstract/document/9769864"
-        - name: "Code"
+        - name: "arXiv"
+          url: "https://arxiv.org/abs/2210.14897"
 
     - title:   "A Representation Separation Perspective to Correspondences-free Unsupervised 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
@@ -204,7 +207,7 @@ pubs:
           url:  "https://ieeexplore.ieee.org/abstract/document/9638480" #  "https://doi.org/10.1109/LGRS.2021.3132926"
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2203.13239"
-        - name: "Code"
+        # - name: "Code"
 
     - title:   "Deep learning based point cloud registration: an overview"
       author:  "Zhiyuan Zhang, Yuchao Dai, **Jiadai Sun**"
@@ -218,7 +221,7 @@ pubs:
 news:
     shown:
       - time: Sep 17, 2022
-        note: One paper (NDVG) accepted to ACCV 2022 &#127881;
+        note: One paper (NDVG) accepted to ACCV 2022 Oral &#127881;
       - time: Aug 11, 2022
         note: One paper (CU-Net) accepted to RA-L &#127867;
       - time: Aug 01, 2022
