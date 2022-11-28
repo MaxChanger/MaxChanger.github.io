@@ -123,6 +123,7 @@ pubs:
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2206.07698"
         - name: "Code"
+          url: "https://github.com/SeanGuo063/NDVG"
     - title:   "CU-Net: LiDAR Depth-only Completion with Coupled U-Net"
       author:  "Yufei Wang, Yuchao Dai, Qi Liu, Peng Yang, **Jiadai Sun**, Bo Li"
       journal: "IEEE Robotics and Automation Letters (RA-L)"
@@ -221,9 +222,9 @@ pubs:
 news:
     shown:
       - time: Sep 17, 2022
-        note: One paper (NDVG) accepted to ACCV 2022 Oral &#127881;
+        note: One paper (<a href="https://npucvr.github.io/NDVG/" target="_blank">NDVG</a>) accepted to ACCV 2022 Oral &#127881;
       - time: Aug 11, 2022
-        note: One paper (CU-Net) accepted to RA-L &#127867;
+        note: One paper (<a href="https://github.com/YufeiWang777/CU-Net" target="_blank">CU-Net</a>) accepted to RA-L &#127867;
       - time: Aug 01, 2022
         note: One paper accepted to TCSVT &#128079; 
       - time: Jun 30, 2022
@@ -382,7 +383,7 @@ Minister of Public Relations Department of Computer Volunteer Service Team \| *1
 [SenseTime]: https://www.sensetime.com/en
 [Dr. Zhanxuan Hu]: https://kdd-code.github.io/
 [Google Scholar]: https://scholar.google.com/citations?user=GNe24ewAAAAJ&hl=en
-[Xieyuanli Chen]: https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl=en
+[Xieyuanli Chen]: http://xieyuanli-chen.com/
 [CVR-Lab]: http://npu-cvr.cn/
 [Dingfu Zhou]: https://scholar.google.com/citations?user=pfBeKioAAAAJ&hl=en
 [Xibin Song]: https://scholar.google.com/citations?user=2gudyEQAAAAJ&hl=en
