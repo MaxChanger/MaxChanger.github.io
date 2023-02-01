@@ -93,6 +93,8 @@ pubs:
       media:
         - name: "Page"
           url:  https://npucvr.github.io/MotionSeg3D/
+        - name: "Paper"
+          url:  https://ieeexplore.ieee.org/document/9981210/
         - name: "arXiv"
           url: https://arxiv.org/abs/2207.02201
         - name: "Code"
@@ -112,6 +114,15 @@ pubs:
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2111.14646"
         - name: "Code"
+
+    - title:   "MFF-Net: Towards Efficient Monocular Depth Completion With Multi-Modal Feature Fusion"
+      author:  "Lina Liu, Xibin Song, **Jiadai Sun**, Xiaoyang Lyu, Lin Li, Yong Liu, Liangjun Zhang"
+      journal: "IEEE Robotics and Automation Letters (RA-L)"
+      year:    "2023"
+      media:
+        - name: "Paper"
+          url: "https://ieeexplore.ieee.org/document/10008014"
+
     - title:   "Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis"
       author:  "Xiang Guo, Guanying Chen, Yuchao Dai, Xiaoqing Ye, **Jiadai Sun**, Xiao Tan, Errui Ding"
       journal: "Proceedings of the Asian Conference on Computer Vision (ACCV) [Oral]"
@@ -124,15 +135,17 @@ pubs:
           url:  "https://arxiv.org/abs/2206.07698"
         - name: "Code"
           url: "https://github.com/SeanGuo063/NDVG"
+
     - title:   "CU-Net: LiDAR Depth-only Completion with Coupled U-Net"
       author:  "Yufei Wang, Yuchao Dai, Qi Liu, Peng Yang, **Jiadai Sun**, Bo Li"
       journal: "IEEE Robotics and Automation Letters (RA-L)"
       year:    "2022"
       # image:   "/images/no.svg"
       media:
+        - name: "Page"
+          url:  https://npucvr.github.io/CUNet
         - name: "Paper"
           url: "https://ieeexplore.ieee.org/document/9866514"
-        # - name: "Page"
         - name: "arXiv"
           url: "https://arxiv.org/abs/2210.14898"
         - name: "Code"
@@ -143,21 +156,27 @@ pubs:
       year:    "2022"
       # image:   "/images/no.svg"
       media:
+        - name: "Page"
+          url:  https://npucvr.github.io/SHM
         - name: "Paper"
           url: "https://aaai-2022.virtualchair.net/poster_aaai7418"
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2110.15250"
         - name: "Code"
+          url:  "https://github.com/MrZ19/SHM"
     - title:   "Self-supervised Rigid Transformation Equivariance for Accurate 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Dingfu Zhou, Xibin Song, Mingyi He"
       journal: "Pattern Recognition (PR)"
       year:    "2022"
       # image:   "/images/no.svg"
       media:
+        - name: "Page"
+          url:  https://npucvr.github.io/RTE
         - name: "Paper"
           url: "https://doi.org/10.1016/j.patcog.2022.108784"
-        - name: "arXiv"
+        # - name: "arXiv"
         - name: "Code"
+          url:  "https://github.com/MrZ19/RTE"
 
     - title:   "VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Bin Fan, Mingyi He"
@@ -166,11 +185,14 @@ pubs:
       doi:     
       # image:   "/images/no.svg"
       media:
+        - name: "Page"
+          url:  https://npucvr.github.io/VRNet
         - name: "Paper"
           url:  "https://ieeexplore.ieee.org/abstract/document/9681904/" #"https://doi.org/10.1109/TCSVT.2022.3143151"
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2203.13241"
-        # - name: "Code"
+        - name: "Code"
+          url:  "https://github.com/MrZ19/VRNet-repo"
 
     - title:   "Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds"
       author:  "Zhiyuan Zhang, Yuchao Dai, Bin Fan, **Jiadai Sun**, Mingyi He"
@@ -179,11 +201,14 @@ pubs:
       doi:     
       # image:   "/images/no.svg"
       media:
+        - name: "Page"
+          url:  https://npucvr.github.io/TSD
         - name: "Paper"
           url:  "https://ieeexplore.ieee.org/abstract/document/9847261/"
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2210.14899"
-        # - name: "Code"
+        - name: "Code"
+          url:  "https://github.com/MrZ19/TSD"
 
     - title:   "Searching Dense Point Correspondences via Permutation Matrix Learning"
       author:  "Zhiyuan Zhang, **Jiadai Sun**, Yuchao Dai, Bin Fan, Qi Liu"
@@ -221,6 +246,8 @@ pubs:
 
 news:
     shown:
+      - time: Dec 21, 2022
+        note: One paper MFF-Net accepted to RA-L &#127867;
       - time: Sep 17, 2022
         note: One paper (<a href="https://npucvr.github.io/NDVG/" target="_blank">NDVG</a>) accepted to ACCV 2022 Oral &#127881;
       - time: Aug 11, 2022
