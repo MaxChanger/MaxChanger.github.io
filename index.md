@@ -104,13 +104,16 @@ pubs:
 
     - title:   "MUNet: Motion Uncertainty-aware Semi-supervised Video Object Segmentation"
       author:  "**Jiadai Sun**\\*, Yuxin Mao\\*, Yuchao Dai, Yiran Zhong, Jianyuan Wang (\\* equal contribution)"
-      journal: "arXiv preprint arXiv:2111.14646"
+      journal: Pattern Recognition (PR)
+      # journal: "arXiv preprint arXiv:2111.14646"
       # note:    "in submission"
-      year:    "2021"
+      year:    "2023"
       # image:   "/images/no.svg"
       media:
         - name: "Page"
           url:  https://npucvr.github.io/MUNet/
+        - name: "Paper"
+          url:  https://www.sciencedirect.com/science/article/pii/S0031320323001000
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2111.14646"
         - name: "Code"
@@ -246,6 +249,8 @@ pubs:
 
 news:
     shown:
+      - time: Feb 05, 2023
+        note: <a href="https://npucvr.github.io/MUNet" target="_blank">MUNet</a> accepted to Pattern Recognition (PR) &#127867;&#127881;
       - time: Dec 21, 2022
         note: One paper MFF-Net accepted to RA-L &#127867;
       - time: Sep 17, 2022
@@ -335,7 +340,7 @@ Github: [MaxChanger] \| [Google Scholar] \| Email: [sunjiadai AT foxmail dot com
 {% endfor %}<br/>
 
 
-## Publications
+## Selected Publications
 <!-- Will upload soon... -->
 This part will be updated as soon as my on-going projects are approved to be made public which should be quite exciting.<br/>
 
