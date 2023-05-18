@@ -6,21 +6,27 @@ permalink: /
 education:
     - title: "School of Electronics and Information @ Northwestern Polytechnical University, China, 09/2020 - 04/2023"
       image: "/images/nwpu.png"
-      comment: "-- Master of Engineering | Advisor: [Prof. Yuchao Dai]<br/>
+      comment: "-- Master of Engineering, Outstanding Graduate | Advisor: [Prof. Yuchao Dai]<br/>
                 -- Overall Average: 93.26 (3/257) | College Comprehensive Evaluation Ranking: 5/257"
     - title: "School of Computer Science @ Northwestern Polytechnical University, China, 09/2016 - 06/2020"
       image: "/images/nwpu.png"
-      comment: "-- Bachelor of Engineering, Outstanding graduate, Computer Science and Technology | Advisor: [Prof. Yuchao Dai]<br/>
+      comment: "-- Bachelor of Engineering, Outstanding Graduate, Computer Science and Technology | Advisor: [Prof. Yuchao Dai]<br/>
                 -- Overall Average: 88.28/100 | College Comprehensive Evaluation Ranking: 1/248"
 
+jobs:
+    - title: "Intelligent Driving Technology (IDT) @ Baidu, Beijing, 04/2023 - now"
+      image: "/images/baidu.png"
+      comment: "-- Autonomous Driving Perception Algorithm Engineer <br/>
+                -- Apollo Navigation Pilot (ANP) 3.0 "
+
 interns:
-    - title: "Robotics and Autonomous Driving Lab @ Baidu Research, Beijing, 04/2022 - now"
+    - title: "Robotics and Autonomous Driving Lab (RAL) @ Baidu Research, Beijing, 04/2022 - 04/2023"
       image: "/images/baidu_research.png"
-      comment: "-- Scene Reconstruction and Novel View Synthesis.<br/>
+      comment: "-- Scene Reconstruction and Novel View Synthesis<br/>
                 -- Mentor: [Dingfu Zhou], [Xibin Song] and [Liangjun Zhang]"
     - title: "Perception Algo. @ Intelligent Algo. Dept. of HAOMO.AI, Beijing, 11/2021 - 04/2022"
       image: "/images/haomo.jpg"
-      comment: "-- Online LiDAR-based 3D Moving Object Segmentation.<br/>
+      comment: "-- Online LiDAR-based 3D Moving Object Segmentation<br/>
                 -- Mentor: [Xieyuanli Chen] and Xianjing Zhang"
     - title: "3D&AR Group @ MIG of SenseTime Research, Hangzhou, 10/2019 - 05/2020"
       image: "/images/sensetime.png"
@@ -43,14 +49,14 @@ projects:
     - title: "Major Member - NPU Peak Experience Program with [Prof. Y. Dai]"
       time:  "10/2018 - 06/2020"
       topic: "Research Topic: Visual Technology of Unmanned System Based on Deep Learning"
-      comment: "Topic: Lidar/Visual 3D Reconstruction, Deep ICP, Multi-sensor calibration, Visual SLAM etc.  
-                Data acquisition and reconstruction of buildings using 3D Lidar with Cartographer. 
-                Calibration of the extrinsic parameters between Camera and Lidar has been achieved."
-      duties: " Lidar/Visual 3D Reconstruction, Deep ICP, Multi-sensor calibration, Visual SLAM"
+      comment: "Topic: LiDAR/Visual 3D Reconstruction, Deep ICP, Multi-sensor calibration, Visual SLAM etc.  
+                Data acquisition and reconstruction of buildings using 3D LiDAR with Cartographer. 
+                Calibration of the extrinsic parameters between Camera and LiDAR has been achieved."
+      duties: " LiDAR/Visual 3D Reconstruction, Deep ICP, Multi-sensor calibration, Visual SLAM"
       videos:
         - name: "Velodyne-16+IMU+cartographer"
           url: https://youtu.be/Q-RpD6fszsY
-        - name: "Dual Lidar Calibration"
+        - name: "Dual LiDAR Calibration"
           url: https://youtu.be/eWi_X-0W4QI
       image: "/images/duallidar.png"
 
@@ -286,19 +292,20 @@ news:
 <!-- About me -->
 {% include image.html url="images/person3.jpg" caption="" width="190px" align="right" %}
 
-I am currently a third-year (2020- ) graduate student of Northwestern Polytechnical University ([NWPU]) with the supervision of [Prof. Yuchao Dai], and I received my Bachelor's degree in July 2020 from the [School of Computer Science] of NWPU, with the honor of Outstanding Graduate.
+I obtained my Master's degree in April 2023 from Northwestern Polytechnical University ([NWPU]), with the supervision of [Prof. Yuchao Dai], once again with the honor of Outstanding Graduate.
+And I received my Bachelor's degree in July 2020 from the [School of Computer Science] of NWPU, with the honor of Outstanding Graduate.
 
-Currently, I am a Research Intern at the [Robotics and Autonomous Driving Lab] of Baidu Research, and working very closely with [Xibin Song] and [Dingfu Zhou] on a research topic about Scene Reconstruction and Novel View Synthesis.
+Currently, I am a Perception Algorithm Engineer at Intelligent Driving Technology (IDT) of Baidu Inc.
+I spent about a year of pleasant and fulfilling internship at the [Robotics and Autonomous Driving Lab] of Baidu Research, and working very closely with [Xibin Song] and [Dingfu Zhou] on a research topic about Scene Reconstruction and Novel View Synthesis.
 Before that, I have been working very closely with [Xieyuanli Chen] on a research topic about LiDAR-Based Moving Object Segmentation at Haomo.AI.
 I used to be a Research Intern on topics related to 3D Scene Reconstruction and Understanding at 3D&AR Group @ MIG of [SenseTime] Research supervised by [Jiaming Sun] and [Prof. Xiaowei Zhou] (CAD&CG, ZJU) from October 2019 to May 2020.
-During my undergraduate study, I worked in [CVR-Lab] supervised by [Prof. Yuchao Dai] as a Research Assistant on Lidar/Visual 3D Registration and Reconstruction, Dual Lidar calibration, etc.
+During my undergraduate study, I worked in [CVR-Lab] supervised by [Prof. Yuchao Dai] as a Research Assistant on LiDAR/Visual 3D Registration and Reconstruction, Dual LiDAR calibration, etc.
 I've served in the NWPU Dancing Robot Research And Training Base - Rescue Robot Group [Team - Explorer] for two years as a Robot Software Engineer and Team Leader since July, 2017. 
 As usual, we participate in *RoboCup Rescue Robot League Regional Open Competitions*, and my main contribution is about SLAM, Robot Localization and Navigation, Path Planning, etc.
 
 Github: [MaxChanger] \| [Google Scholar] \| Email: [sunjiadai AT foxmail dot com], [sunjiadai AT mail.nwpu.edu.cn]
 
-<font color='#318CE7'><b>- I am looking for a job opportunity about 3DVision, free to contact me if you think we are a good match.</b></font>
-
+<!-- <font color='#318CE7'><b>- I am looking for a job opportunity about 3DVision, free to contact me if you think we are a good match.</b></font> -->
 
 ## Research Interest
 3D Vision, Robotics, SLAM, Autonomous Driving, Point Cloud Understanding, Motion Understanding
@@ -320,9 +327,26 @@ Github: [MaxChanger] \| [Google Scholar] \| Email: [sunjiadai AT foxmail dot com
 <!-- Trigger toggleText() when the  button is clicked -->
 <button onclick="toggleText()" id="textButton" class="showbutton"> Show More </button>
 
-## Education & Intern Experience
+## Experience & Education
 
 {% assign thumbnail="left" %}
+
+{% for job in page.jobs %}
+{% if job.image %}
+{% include image.html url=job.image caption="" width="70px" align=thumbnail %}
+{% endif %}
+**{{job.title}}** <br/>
+{{ job.comment }}
+{% endfor %}<br/>
+
+{% for intern in page.interns %}
+{% if intern.image %}
+{% include image.html url=intern.image caption="" width="70px" align=thumbnail %}
+{% endif %}
+**{{intern.title}}, Intern** <br/>
+{{ intern.comment }}
+{% endfor %}<br/>
+
 {% for edu in page.education %}
 {% if edu.image %}
 {% include image.html url=edu.image caption="" width="70px" align=thumbnail %}
@@ -330,15 +354,6 @@ Github: [MaxChanger] \| [Google Scholar] \| Email: [sunjiadai AT foxmail dot com
 **{{edu.title}}** <br/>
 {{ edu.comment }}
 {% endfor %}
-
-{% for intern in page.interns %}
-{% if intern.image %}
-{% include image.html url=intern.image caption="" width="70px" align=thumbnail %}
-{% endif %}
-**{{intern.title}}** <br/>
-{{ intern.comment }}
-{% endfor %}<br/>
-
 
 ## Selected Publications
 <!-- Will upload soon... -->
@@ -371,7 +386,9 @@ This part will be updated as soon as my on-going projects are approved to be mad
 
 
 ## Honors & Awards
-- **Outstanding Graduate Students** (First-class Academic Scholarship) \| Northwestern Polytechnical University, 2020-2021
+- **Outstanding Graduate** and **Excellent Graduation Projects** \| Northwestern Polytechnical University,  04/2023
+- Guorui Special Scholarship (first-class top 0.4%) \| Northwestern Polytechnical University, 2021-2022
+- **Outstanding Graduate Students** (First-class Academic Scholarship) \| NWPU, 2020-2021, 2021-2022
 - **Third Prize** \| 16th China Postgraduate Electronic Design Competition, Shaoxing, 08/2021
 - **Outstanding Graduate** and **Excellent Graduation Projects** \| Northwestern Polytechnical University, 06/2020
 - **Outstanding Students** \| Northwestern Polytechnical University (top 14.7%), 2016-2019, three consecutive years
@@ -393,7 +410,7 @@ This part will be updated as soon as my on-going projects are approved to be mad
 
 ## Misc.
 <!-- - Rejected list: [AAA21, CVPR21, ICCV21, BMVC21, CVPR22, ECCV22] &#129318; -->
-- I love traveling and photography, and the scenery in northwestern China is usually exciting. (13/34 provinces) [**[500px]**]<br/>
+- I love traveling and photography, and the scenery in northwestern China is usually exciting. (14/34 provinces) [**[500px]**]<br/>
 - In the past I used to use Hexo and Markdown to make some records. It is written in Chinese. **[Click &rArr;BLOG-LINK](https://sunjiadai.xyz/blog){:target="_blank"}** <br/>
 - Some meaningful extracurricular activities during my undergraduate: <br/>
 Vice President of Tencent Innovation Club \| *10/2016 - 07/2019* \| [[Image]](/images/tic.jpg){:target="_blank"} <br/>
