@@ -23,7 +23,7 @@ interns:
     - title: "Robotics and Autonomous Driving Lab (RAL) @ Baidu Research, Beijing, 04/2022 - 04/2023"
       image: "/images/baidu_research.png"
       comment: "-- Scene Reconstruction and Novel View Synthesis<br/>
-                -- Mentor: [Dingfu Zhou], [Xibin Song] and [Liangjun Zhang]"
+                -- Mentor: [Chenming Wu], [Xibin Song], [Dingfu Zhou] and [Liangjun Zhang]"
     - title: "Perception Algo. @ Intelligent Algo. Dept. of HAOMO.AI, Beijing, 11/2021 - 04/2022"
       image: "/images/haomo.jpg"
       comment: "-- Online LiDAR-based 3D Moving Object Segmentation<br/>
@@ -91,6 +91,34 @@ activities:
                 -- Connected community organizations to organize and arrange free computer maintenance activities"
 
 pubs:
+    - title:   "Is LiDAR Really Needed? Digging into Depth Priors for Outdoor Neural Radiance Fields"
+      author:  "Chen Wang, **Jiadai Sun**, Lina Liu, Chenming Wu, Zhelun Shen, Liangjun Zhang"
+      journal: "Proceedings of the ACM International Conference on Multimedia (ACM MM)"
+      year:    "2023"
+      media:
+        - name: "Page"
+        - name: "Paper"
+        - name: "arXiv"
+
+    - title:   "Forward Flow for Novel View Synthesis of Dynamic Scenes"
+      author:  "Xiang Guo, **Jiadai Sun**, Yuchao Dai, Guanying Chen, Xiaoqing Ye, Xiao Tan, Errui Ding, Yumeng Zhang, Jingdong Wang"
+      journal: "Proceedings of the International Conference on Computer Vision (ICCV)"
+      year:    "2023"
+      media:
+        - name: "Page"
+        - name: "Paper"
+        - name: "arXiv"
+
+    - title:   "MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation"
+      author:  "Chenming Wu, **Jiadai Sun**, Zhelun Shen, Liangjun Zhang"
+      journal: "Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+      year:    "2023"
+      media:
+        - name: "Page"
+        - name: "Paper"
+        - name: "arXiv"
+          url:  "https://arxiv.org/abs/2307.14981"
+
     - title:   "Efficient Spatial-Temporal Information Fusion for LiDAR-based 3D Moving Object Segmentation"
       author:  "**Jiadai Sun**, Yuchao Dai, Xianjing Zhang, Jintao Xu, Rui Ai, Weihao Gu, Xieyuanli Chen"
       journal: "Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
@@ -255,6 +283,12 @@ pubs:
 
 news:
     shown:
+      - time: Jul 26, 2023
+        note: One paper accepted to ACM MM 2023 &#127881;
+      - time: Jul 18, 2023
+        note: One paper accepted to ICCV 2023 &#127867;&#127881;
+      - time: Jun 22, 2023
+        note: One paper accepted to IROS 2023 &#128079;
       - time: Feb 05, 2023
         note: <a href="https://npucvr.github.io/MUNet" target="_blank">MUNet</a> accepted to Pattern Recognition (PR) &#127867;&#127881;
       - time: Dec 21, 2022
@@ -263,6 +297,8 @@ news:
         note: One paper (<a href="https://npucvr.github.io/NDVG/" target="_blank">NDVG</a>) accepted to ACCV 2022 Oral &#127881;
       - time: Aug 11, 2022
         note: One paper (<a href="https://github.com/YufeiWang777/CU-Net" target="_blank">CU-Net</a>) accepted to RA-L &#127867;
+ 
+    hidden:
       - time: Aug 01, 2022
         note: One paper accepted to TCSVT &#128079; 
       - time: Jun 30, 2022
@@ -273,8 +309,6 @@ news:
         note: One paper accepted to SPL
       - time: Apr 27, 2022
         note: Start a new internship at RA-Lab @ Baidu Research &#127881;&#128526; <span id="points">...</span>
-
-    hidden:
       - time: Jan 10, 2022
         note: One paper accepted to TCSVT &#128079; 
       - time: Dec 01, 2021
@@ -296,9 +330,10 @@ I obtained my Master's degree in April 2023 from Northwestern Polytechnical Univ
 And I received my Bachelor's degree in July 2020 from the [School of Computer Science] of NWPU, with the honor of Outstanding Graduate.
 
 Currently, I am a Perception Algorithm Engineer at Intelligent Driving Technology (IDT) of Baidu Inc.
-I spent about a year of pleasant and fulfilling internship at the [Robotics and Autonomous Driving Lab] of Baidu Research, and working very closely with [Xibin Song] and [Dingfu Zhou] on a research topic about Scene Reconstruction and Novel View Synthesis.
+I spent about a year of pleasant and fulfilling internship at the [Robotics and Autonomous Driving Lab] of Baidu Research, and working on a research topic about Scene Reconstruction and Novel View Synthesis.
 Before that, I have been working very closely with [Xieyuanli Chen] on a research topic about LiDAR-Based Moving Object Segmentation at Haomo.AI.
 I used to be a Research Intern on topics related to 3D Scene Reconstruction and Understanding at 3D&AR Group @ MIG of [SenseTime] Research supervised by [Jiaming Sun] and [Prof. Xiaowei Zhou] (CAD&CG, ZJU) from October 2019 to May 2020.
+
 During my undergraduate study, I worked in [CVR-Lab] supervised by [Prof. Yuchao Dai] as a Research Assistant on LiDAR/Visual 3D Registration and Reconstruction, Dual LiDAR calibration, etc.
 I've served in the NWPU Dancing Robot Research And Training Base - Rescue Robot Group [Team - Explorer] for two years as a Robot Software Engineer and Team Leader since July, 2017. 
 As usual, we participate in *RoboCup Rescue Robot League Regional Open Competitions*, and my main contribution is about SLAM, Robot Localization and Navigation, Path Planning, etc.
@@ -410,6 +445,7 @@ This part will be updated as soon as my on-going projects are approved to be mad
 
 ## Misc.
 <!-- - Rejected list: [AAA21, CVPR21, ICCV21, BMVC21, CVPR22, ECCV22] &#129318; -->
+- Reviewer: IROS / RA-L / ACCV / MM / ROB *etc.* 
 - I love traveling and photography, and the scenery in northwestern China is usually exciting. (14/34 provinces) [**[500px]**]<br/>
 - In the past I used to use Hexo and Markdown to make some records. It is written in Chinese. **[Click &rArr;BLOG-LINK](https://sunjiadai.xyz/blog){:target="_blank"}** <br/>
 - Some meaningful extracurricular activities during my undergraduate: <br/>
@@ -436,6 +472,7 @@ Minister of Public Relations Department of Computer Volunteer Service Team \| *1
 [CVR-Lab]: http://npu-cvr.cn/
 [Dingfu Zhou]: https://scholar.google.com/citations?user=pfBeKioAAAAJ&hl=en
 [Xibin Song]: https://scholar.google.com/citations?user=2gudyEQAAAAJ&hl=en
+[Chenming Wu]: https://chenming-wu.github.io/
 [Liangjun Zhang]: https://www.cs.unc.edu/~zlj/
 [Robotics and Autonomous Driving Lab]: http://research.baidu.com/Research_Areas/index-view?id=58
 [500px]: https://500px.com/p/changersunjd?view=photos
