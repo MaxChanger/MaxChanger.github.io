@@ -92,7 +92,7 @@ activities:
 
 pubs:
     - title:   "Is LiDAR Really Needed? Digging into Depth Priors for Outdoor Neural Radiance Fields"
-      author:  "Chen Wang, **Jiadai Sun**, Lina Liu, Chenming Wu, Zhelun Shen, Liangjun Zhang"
+      author:  "Chen Wang, **Jiadai Sun**, Lina Liu, Chenming Wu, Zhelun Shen, Dayan Wu, Yuchao Dai, Liangjun Zhang"
       journal: "Proceedings of the ACM International Conference on Multimedia (ACM MM)"
       year:    "2023"
       media:
