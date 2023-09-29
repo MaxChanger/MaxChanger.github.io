@@ -91,14 +91,16 @@ activities:
                 -- Connected community organizations to organize and arrange free computer maintenance activities"
 
 pubs:
-    - title:   "Is LiDAR Really Needed? Digging into Depth Priors for Outdoor Neural Radiance Fields"
+    - title:   "Digging into Depth Priors for Outdoor Neural Radiance Fields"
       author:  "Chen Wang, **Jiadai Sun**, Lina Liu, Chenming Wu, Zhelun Shen, Dayan Wu, Yuchao Dai, Liangjun Zhang"
       journal: "Proceedings of the ACM International Conference on Multimedia (ACM MM)"
       year:    "2023"
       media:
         - name: "Page"
+          url:  "https://cwchenwang.github.io/outdoor-nerf-depth/"
         - name: "Paper"
         - name: "arXiv"
+          url:  "https://arxiv.org/abs/2308.04413"
 
     - title:   "Forward Flow for Novel View Synthesis of Dynamic Scenes"
       author:  "Xiang Guo, **Jiadai Sun**, Yuchao Dai, Guanying Chen, Xiaoqing Ye, Xiao Tan, Errui Ding, Yumeng Zhang, Jingdong Wang"
@@ -106,7 +108,9 @@ pubs:
       year:    "2023"
       media:
         - name: "Page"
+          url:  "https://npucvr.github.io/ForwardFlowDNeRF/"
         - name: "Paper"
+          url:  "https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Forward_Flow_for_Novel_View_Synthesis_of_Dynamic_Scenes_ICCV_2023_paper.pdf"
         - name: "arXiv"
 
     - title:   "MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation"
@@ -114,10 +118,11 @@ pubs:
       journal: "Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
       year:    "2023"
       media:
-        - name: "Page"
-        - name: "Paper"
+        # - name: "Page"
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2307.14981"
+        - name: "video"
+          url:  "https://www.youtube.com/watch?v=jEQWr-Rfh3A"
 
     - title:   "Efficient Spatial-Temporal Information Fusion for LiDAR-based 3D Moving Object Segmentation"
       author:  "**Jiadai Sun**, Yuchao Dai, Xianjing Zhang, Jintao Xu, Rui Ai, Weihao Gu, Xieyuanli Chen"
