@@ -104,7 +104,7 @@ pubs:
 
     - title:   "Forward Flow for Novel View Synthesis of Dynamic Scenes"
       author:  "Xiang Guo, **Jiadai Sun**, Yuchao Dai, Guanying Chen, Xiaoqing Ye, Xiao Tan, Errui Ding, Yumeng Zhang, Jingdong Wang"
-      journal: "Proceedings of the International Conference on Computer Vision (ICCV)"
+      journal: "Proceedings of the International Conference on Computer Vision (ICCV) [Oral]"
       year:    "2023"
       media:
         - name: "Page"
@@ -112,6 +112,7 @@ pubs:
         - name: "Paper"
           url:  "https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Forward_Flow_for_Novel_View_Synthesis_of_Dynamic_Scenes_ICCV_2023_paper.pdf"
         - name: "arXiv"
+          url:  "https://arxiv.org/abs/2309.17390"
 
     - title:   "MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation"
       author:  "Chenming Wu, **Jiadai Sun**, Zhelun Shen, Liangjun Zhang"
@@ -291,9 +292,9 @@ news:
       - time: Jul 26, 2023
         note: One paper accepted to ACM MM 2023 &#127881;
       - time: Jul 18, 2023
-        note: One paper accepted to ICCV 2023 &#127867;&#127881;
+        note: One paper accepted to ICCV 2023 Oral &#127867;&#127881;
       - time: Jun 22, 2023
-        note: One paper accepted to IROS 2023 &#128079;
+        note: One paper MapNeRF accepted to IROS 2023 &#128079;
       - time: Feb 05, 2023
         note: <a href="https://npucvr.github.io/MUNet" target="_blank">MUNet</a> accepted to Pattern Recognition (PR) &#127867;&#127881;
       - time: Dec 21, 2022
