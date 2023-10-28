@@ -93,12 +93,13 @@ activities:
 pubs:
     - title:   "Digging into Depth Priors for Outdoor Neural Radiance Fields"
       author:  "Chen Wang, **Jiadai Sun**, Lina Liu, Chenming Wu, Zhelun Shen, Dayan Wu, Yuchao Dai, Liangjun Zhang"
-      journal: "Proceedings of the ACM International Conference on Multimedia (ACM MM)"
+      journal: "Proceedings of the ACM International Conference on Multimedia (ACM MM) [Oral]"
       year:    "2023"
       media:
         - name: "Page"
           url:  "https://cwchenwang.github.io/outdoor-nerf-depth/"
         - name: "Paper"
+          url:  "https://dl.acm.org/doi/10.1145/3581783.3612306"
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2308.04413"
 
@@ -290,7 +291,7 @@ pubs:
 news:
     shown:
       - time: Jul 26, 2023
-        note: One paper accepted to ACM MM 2023 &#127881;
+        note: One paper accepted to ACM MM 2023 Oral &#127881;
       - time: Jul 18, 2023
         note: One paper accepted to ICCV 2023 Oral &#127867;&#127881;
       - time: Jun 22, 2023
@@ -451,7 +452,7 @@ This part will be updated as soon as my on-going projects are approved to be mad
 
 ## Misc.
 <!-- - Rejected list: [AAA21, CVPR21, ICCV21, BMVC21, CVPR22, ECCV22] &#129318; -->
-- Reviewer: IROS / RA-L / ACCV / MM / ROB *etc.* 
+- Reviewer: IROS / RA-L / ACCV / ACM-MM / ROB / TCSVT *etc.* 
 - I love traveling and photography, and the scenery in northwestern China is usually exciting. (14/34 provinces) [**[500px]**]<br/>
 - In the past I used to use Hexo and Markdown to make some records. It is written in Chinese. **[Click &rArr;BLOG-LINK](https://sunjiadai.xyz/blog){:target="_blank"}** <br/>
 - Some meaningful extracurricular activities during my undergraduate: <br/>
