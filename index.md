@@ -348,6 +348,7 @@ As usual, we participate in *RoboCup Rescue Robot League Regional Open Competiti
 Github: [MaxChanger] \| [Google Scholar] \| Email: [sunjiadai AT foxmail dot com], [sunjiadai AT mail.nwpu.edu.cn]
 
 <!-- <font color='#318CE7'><b>- I am looking for a job opportunity about 3DVision, free to contact me if you think we are a good match.</b></font> -->
+<font color='#318CE7'><b>- If you are looking for an internship or think we have opportunities to collaborate, free to contact me.</b></font>
 
 ## Research Interest
 3D Vision, Robotics, SLAM, Autonomous Driving, Point Cloud Understanding, Motion Understanding
