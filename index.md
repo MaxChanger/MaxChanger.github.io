@@ -102,6 +102,10 @@ pubs:
           url:  "https://dl.acm.org/doi/10.1145/3581783.3612306"
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2308.04413"
+        - name: "Code"
+          url:  "https://github.com/cwchenwang/outdoor-nerf-depth"
+        - name: "Data"
+          url:  "https://drive.google.com/drive/folders/1pTlWLGsLxCjw8DlFaL71yyWFBe4W7X5W"
 
     - title:   "Forward Flow for Novel View Synthesis of Dynamic Scenes"
       author:  "Xiang Guo, **Jiadai Sun**, Yuchao Dai, Guanying Chen, Xiaoqing Ye, Xiao Tan, Errui Ding, Yumeng Zhang, Jingdong Wang"
@@ -123,7 +127,7 @@ pubs:
         # - name: "Page"
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2307.14981"
-        - name: "video"
+        - name: "Video"
           url:  "https://www.youtube.com/watch?v=jEQWr-Rfh3A"
 
     - title:   "Efficient Spatial-Temporal Information Fusion for LiDAR-based 3D Moving Object Segmentation"
@@ -157,7 +161,7 @@ pubs:
           url:  https://www.sciencedirect.com/science/article/pii/S0031320323001000
         - name: "arXiv"
           url:  "https://arxiv.org/abs/2111.14646"
-        - name: "Code"
+        # - name: "Code"
 
     - title:   "MFF-Net: Towards Efficient Monocular Depth Completion With Multi-Modal Feature Fusion"
       author:  "Lina Liu, Xibin Song, **Jiadai Sun**, Xiaoyang Lyu, Lin Li, Yong Liu, Liangjun Zhang"
