@@ -335,7 +335,7 @@ news:
 ---
 
 <!-- About me -->
-{% include image.html url="images/person3.jpg" caption="" width="190px" align="right" %}
+{% include image.html url="images/person4.jpg" caption="" width="220px" align="right" %}
 
 I obtained my Master's degree in April 2023 from Northwestern Polytechnical University ([NWPU]), with the supervision of [Prof. Yuchao Dai], once again with the honor of Outstanding Graduate.
 And I received my Bachelor's degree in July 2020 from the [School of Computer Science] of NWPU, with the honor of Outstanding Graduate.
@@ -460,10 +460,10 @@ This part will be updated as soon as my on-going projects are approved to be mad
 - Reviewer: IROS / RA-L / ACCV / ACM-MM / ROB / TCSVT *etc.* 
 - I love traveling and photography, and the scenery in northwestern China is usually exciting. (14/34 provinces) [**[500px]**]<br/>
 - In the past I used to use Hexo and Markdown to make some records. It is written in Chinese. **[Click &rArr;BLOG-LINK](https://sunjiadai.xyz/blog){:target="_blank"}** <br/>
-- Some meaningful extracurricular activities during my undergraduate: <br/>
+<!-- - Some meaningful extracurricular activities during my undergraduate: <br/>
 Vice President of Tencent Innovation Club \| *10/2016 - 07/2019* \| [[Image]](/images/tic.jpg){:target="_blank"} <br/>
 Chief Propagandist & Technical Support of Summer Social Practice Activities \| *07/2017* \| [[Image]](/images/share.jpg){:target="_blank"} <br/>
-Minister of Public Relations Department of Computer Volunteer Service Team \| *10/2016 - 10/2018* \| [[Image]](/images/volunteer.jpg){:target="_blank"} <br/>
+Minister of Public Relations Department of Computer Volunteer Service Team \| *10/2016 - 10/2018* \| [[Image]](/images/volunteer.jpg){:target="_blank"} <br/> -->
 
 
 <!--Hyperlinks -->
