@@ -91,6 +91,17 @@ activities:
                 -- Connected community organizations to organize and arrange free computer maintenance activities"
 
 pubs:
+    - title:   "Joint Scene Flow Estimation and Moving Object Segmentation on Rotational LiDAR Data"
+      author:  "Xieyuanli Chen, Jiafeng Cui, Yufei Liu, Xianjing Zhang, **Jiadai Sun**, Rui Ai, Weihao Gu, Jintao Xu, Huimin Lu"
+      journal: "IEEE Transactions on Intelligent Transportation Systems (TITS)"
+      year:    "2024"
+      media:
+        - name: "Paper"
+          url:  "https://ieeexplore.ieee.org/document/10623536"
+        - name: "arXiv"
+        - name: "Code"
+          url:  "https://github.com/nubot-nudt/SFEMOS"
+
     - title:   "Digging into Depth Priors for Outdoor Neural Radiance Fields"
       author:  "Chen Wang, **Jiadai Sun**, Lina Liu, Chenming Wu, Zhelun Shen, Dayan Wu, Yuchao Dai, Liangjun Zhang"
       journal: "Proceedings of the ACM International Conference on Multimedia (ACM MM) [Oral]"
@@ -294,6 +305,8 @@ pubs:
 
 news:
     shown:
+      - time: Jul 17, 2024
+        note: One paper accepted to TITS &#127867;
       - time: Jul 26, 2023
         note: One paper accepted to ACM MM 2023 Oral &#127881;
       - time: Jul 18, 2023
