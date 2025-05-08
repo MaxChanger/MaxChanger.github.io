@@ -7,11 +7,13 @@ education:
     - title: "School of Electronics and Information @ Northwestern Polytechnical University, China, 09/2020 - 04/2023"
       image: "/images/nwpu.png"
       comment: "-- Master of Engineering, Outstanding Graduate | Advisor: [Prof. Yuchao Dai]<br/>
-                -- Overall Average: 93.26 (3/257) | College Comprehensive Evaluation Ranking: 5/257"
+                -- Thesis: Dynamic Scene Perception and Semantic Segmentation Based on Deep Learning"
+                # -- Overall Average: 93.26 (3/257) | College Comprehensive Evaluation Ranking: 5/257
     - title: "School of Computer Science @ Northwestern Polytechnical University, China, 09/2016 - 06/2020"
       image: "/images/nwpu.png"
       comment: "-- Bachelor of Engineering, Outstanding Graduate, Computer Science and Technology | Advisor: [Prof. Yuchao Dai]<br/>
-                -- Overall Average: 88.28/100 | College Comprehensive Evaluation Ranking: 1/248"
+                -- Research on 3D Point cloud Registration and Dense 3D reconstruction"
+                # "-- Overall Average: 88.28/100 | College Comprehensive Evaluation Ranking: 1/248"
 
 jobs:
     - title: "Intelligent Driving Technology (IDT) @ Baidu, Beijing, 04/2023 - now"
@@ -60,14 +62,14 @@ projects:
           url: https://youtu.be/eWi_X-0W4QI
       image: "/images/duallidar.png"
 
-    - title: "Intern - Optical Imagery Analysis and Learning Center (OPTIMAL)"
-      time:  "12/2018 - 05/2019"
-      topic: "Research Topic: Unsupervised Learning Hash Encoding Schemes for Efficient Image Retrieval"
-      comment: "Topic: Unsupervised Learning Hash Encoding Schemes for Efficient Image Retrieval. <br/>
-                Transform high-dimensional media data into compact binary codes and generate similar binary codes for similar data items, under the supervision of [Dr. Zhanxuan Hu].
-                Combine Unsupervised Clustering with Deep Hashing, based on Pytorch, and made a demo using Flask."
-      duties: "Combine Unsupervised Clustering with Deep Hashing, based on Pytorch, and made a demo using Flask."
-      image: "/images/imageretrival.png"
+    # - title: "Intern - Optical Imagery Analysis and Learning Center (OPTIMAL)"
+    #   time:  "12/2018 - 05/2019"
+    #   topic: "Research Topic: Unsupervised Learning Hash Encoding Schemes for Efficient Image Retrieval"
+    #   comment: "Topic: Unsupervised Learning Hash Encoding Schemes for Efficient Image Retrieval. <br/>
+    #             Transform high-dimensional media data into compact binary codes and generate similar binary codes for similar data items, under the supervision of [Dr. Zhanxuan Hu].
+    #             Combine Unsupervised Clustering with Deep Hashing, based on Pytorch, and made a demo using Flask."
+    #   duties: "Combine Unsupervised Clustering with Deep Hashing, based on Pytorch, and made a demo using Flask."
+    #   image: "/images/imageretrival.png"
 
 activities:
     - title: "Vice President | Tencent Innovation Club"
@@ -447,14 +449,14 @@ This part will be updated as soon as my on-going projects are approved to be mad
 
 ## Honors & Awards
 - **Outstanding Graduate** and **Excellent Graduation Projects** \| Northwestern Polytechnical University,  04/2023
-- Guorui Special Scholarship (first-class top 0.4%) \| Northwestern Polytechnical University, 2021-2022
-- **Outstanding Graduate Students** (First-class Academic Scholarship) \| NWPU, 2020-2021, 2021-2022
-- **Third Prize** \| 16th China Postgraduate Electronic Design Competition, Shaoxing, 08/2021
+<!-- - Guorui Special Scholarship (first-class top 0.4%) \| Northwestern Polytechnical University, 2021-2022 -->
+<!-- - **Outstanding Graduate Students** (First-class Academic Scholarship) \| NWPU, 2020-2021, 2021-2022 -->
+<!-- - **Third Prize** \| 16th China Postgraduate Electronic Design Competition, Shaoxing, 08/2021 -->
 - **Outstanding Graduate** and **Excellent Graduation Projects** \| Northwestern Polytechnical University, 06/2020
-- **Outstanding Students** \| Northwestern Polytechnical University (top 14.7%), 2016-2019, three consecutive years
-- Aviation Industry Special Scholarship (first-class  top 0.5%), 2018-2019
-- Aviation Industry Special Scholarship (second-class top 2.0%), 2017-2018
-- Wu Yajun's Special Scholarship (third-class top 4.6%), 2016-2017
+<!-- - **Outstanding Students** \| Northwestern Polytechnical University (top 14.7%), 2016-2019, three consecutive years -->
+<!-- - Aviation Industry Special Scholarship (first-class  top 0.5%), 2018-2019 -->
+<!-- - Aviation Industry Special Scholarship (second-class top 2.0%), 2017-2018 -->
+<!-- - Wu Yajun's Special Scholarship (third-class top 4.6%), 2016-2017 -->
 - **International First Prize** \| Meritorious Winner, International University Interdisciplinary Contest in Modeling (ICM), 02/2018
 - **Silver Award** \| RoboCup Rescue Robotic Tournament - Divisional Competition, Zhejian, 04/2018
 - **Champion** \| RoboCup Rescue, Divisional Competition-Independent Ability Challenge, Zhejiang, 04/2018
@@ -462,15 +464,15 @@ This part will be updated as soon as my on-going projects are approved to be mad
 - **First Prize** \| Zhonghangzhi Technology Co., Ltd. "Lianfei Cup" Challenge Result Presentation, 11/2018
 - **First Prize** \| National Undergraduate Mathematical Modeling Competition (Shaanxi Province), 09/2017
 - **Second Prize** \| The 11th National University Student Technology Contest on Energy-saving, Wuhan, 08/2018
-- **Third Prize** \| National University Cloud Computing Application Innovation Competition, Nanjing, 04/2018
+<!-- - **Third Prize** \| National University Cloud Computing Application Innovation Competition, Nanjing, 04/2018 -->
 - **Silver Award** \| "Internet +" College Student Innovation and Entrepreneurship Competition, Shaanxi, 10/2018
-- **Silver Award** \| The 11th "Creating Youth" College Entrepreneurship Competition, NWPU, 04/2018
-- **Excellent Project** \| University Student Innovation and Entrepreneurship Training Program, 2017-2018
-- **Good Project** \| University Student Innovation and Entrepreneurship Training Program, 2017-2018
+<!-- - **Silver Award** \| The 11th "Creating Youth" College Entrepreneurship Competition, NWPU, 04/2018 -->
+<!-- - **Excellent Project** \| University Student Innovation and Entrepreneurship Training Program, 2017-2018 -->
+<!-- - **Good Project** \| University Student Innovation and Entrepreneurship Training Program, 2017-2018 -->
 
 ## Misc.
 <!-- - Rejected list: [AAA21, CVPR21, ICCV21, BMVC21, CVPR22, ECCV22] &#129318; -->
-- Reviewer: IROS / RA-L / ACCV / ACM-MM / ROB / TCSVT *etc.* 
+- Reviewer: IROS / RA-L / ACCV / ACM-MM / ROB / TCSVT / SIVP / T-ITS / TVCG *etc.* 
 - I love traveling and photography, and the scenery in northwestern China is usually exciting. (14/34 provinces) [**[500px]**]<br/>
 - In the past I used to use Hexo and Markdown to make some records. It is written in Chinese. **[Click &rArr;BLOG-LINK](https://sunjiadai.xyz/blog){:target="_blank"}** <br/>
 <!-- - Some meaningful extracurricular activities during my undergraduate: <br/>
